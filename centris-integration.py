@@ -45,7 +45,8 @@ def Start():
       '0 for rent and sale price'
       price = 0
 
-    # get number of bedrooms & bathrooms
+    # get number of rooms
+    total_rooms = row[9]
     bedrooms = row[10]
     bathrooms = row[11]
 
@@ -75,6 +76,7 @@ def Start():
     print('********************')
     print(f'french description: {description_french}')
     print('--------------------')
+    print(f'total_rooms: {total_rooms}')
     print(f'bedrooms: {bedrooms}')
     print(f'bathrooms: {bathrooms}')
     print(f'lot_size: {lot_size}')
