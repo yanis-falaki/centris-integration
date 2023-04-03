@@ -14,7 +14,7 @@ URL_DESC_DETAILLEE - passerelle link
 NO_INSCRIPTION - MLS number
 NO_CIVIQUE_DEBUT - address number
 NO_CIVIQUE_FIN - address number 2 (edge case)
-NOM_RUE_COMPLET - address number
+NOM_RUE_COMPLET - street
 APPARTEMENT - appartment number
 CODE_POSTAL - postal code
 
@@ -54,3 +54,64 @@ LONGITUDE
 
 ADDENDA_COMPLET_F - complete description/features in french
 ADDENDA_COMPLET_A - complete description/features in english
+
+SUPERFICIE_BATIMENT - Area
+SUPERFICIE_HABITABLE - Living Area
+SUPERFICIE_TERRAIN - Lot Area
+
+INSCRIPTIONS.MUN_CODE - Foreign key corresponding to MUNICIPALITES table
+INSCRIPTIONS.QUARTR_CODE - Foreign key corresponding to QUARTIER table
+
+---------------------------------------------------------------------
+Non essential table notes;
+
+## QUARTIERS
+QUARITIER.MUN_CODE - Foreign key corresponding to MUNICIPALITES tables
+QUARTIER.code - Letter code belinging to QUARITERS table, used in tandem with MUN_CODE to find specific of given options
+corresponding to MUN_CODE within the QUARTIER table
+QUARITERS.DESCRIPTON_FRANCAISE - Area french
+QUARITERS.DESCRIPTON_ANGLAISE - Area english
+
+## MUNICIPALITES
+MUNICIPALITES.CODE - PRIMARY key belonging to MUNICIPALITES table
+MUNICIPALITES.DESCRIPTION - Municipality name
+MUNICIPALITES.REGION_CODE - Foreign key corresponding to REGIONS table
+
+## REGIONS
+REGIONS.CODE - Primary key which identifies region
+REGIONS.DESCRIPTON_FRANCAISE - Region french
+REGIONS.DESCRIPTON_ANGLAISE - Region english
+
+-- How these tie to INSCRIPTIONS table:
+From a row in INSCRIPTIONS, there's the data MUN_CODE and QUARTR_CODE, using both MUN_CODE and QUARTR_CODE on the
+QUARTIERS table together allows to find a specific area.
+Using just MUN_CODE we can also pull the municipality from MUNICIPALITES table, and additionally we can get the region code
+from MUNICIPALITES which allows you to pull the region from the REGIONS table.
+
+Foreign Key                         |      Primary Key                    |         Result
+INSCRIPTION.MUN_CODE                -> MUNICIPALITES.CODE                 > MUNICIPALITES.DESCRIPTION_ANGLAISE + MUNICIPALITES.REGION_CODE
+MUNICIPALITES.REGION_CODE           -> REGIONS.CODE                       > REGIONS.DESCRIPTON_ANGLAISE
+INSCRIPTION.MUN_CODE +
+INSCRIPTION.QUARTR_CODE             -> QUARITERS.MUN_CODE + QUARTIER.CODE > DESCRIPTION_ANGLAISE
+
+
+----------------------------------------------------------------------
+Create table query which only includes important columns:
+
+CREATE TEMPORARY TABLE tmp AS
+SELECT NO_INSCRIPTION, PRIX_DEMANDE, PRIX_LOCATION_DEMANDE, NO_CIVIQUE_DEBUT, 
+NO_CIVIQUE_FIN, NOM_RUE_COMPLET, APPARTEMENT, CODE_POSTAL, ANNEE_CONTRUCTION, NB_PIECES,
+NB_CHAMBRES, NB_SALLES_BAINS, NB_SALLES_EAU, SUPERFICIE_TERRAIN, SUPERFICIE_HABITABLE, SUPERFICIE_BATIMENT, LATITUDE, LONGITUDE, ADDENDA_COMPLET_A, ADDENDA_COMPLET_F, URL_DESC_DETAILLEE,
+URL_VISITE_VIRTUELLE_ANGLAIS, URL_VISITE_VIRTUELLE_FRANCAIS
+FROM INSCRIPTIONS;
+
+SELECT query which dosent take ADDENDAs or URLS
+
+SELECT NO_INSCRIPTION, PRIX_DEMANDE, PRIX_LOCATION_DEMANDE, NO_CIVIQUE_DEBUT, 
+NO_CIVIQUE_FIN, NOM_RUE_COMPLET, APPARTEMENT, CODE_POSTAL, ANNEE_CONTRUCTION, NB_PIECES,
+NB_CHAMBRES, NB_SALLES_BAINS, NB_SALLES_EAU, SUPERFICIE_TERRAIN, SUPERFICIE_HABITABLE, SUPERFICIE_BATIMENT
+FROM INSCRIPTIONS LIMIT 1;
+
+Select statement for location
+
+SELECT NO_CIVIQUE_DEBUT, NO_CIVIQUE_FIN, NOM_RUE_COMPLET, APPARTEMENT, CODE_POSTAL, LATITUDE, LONGITUDE FROM INSCRIPTIONS
