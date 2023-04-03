@@ -20,9 +20,11 @@ def Start():
   for row in cursor:
 
     # Get the property title by concatenating address number and street
-    if row[3]: title = f'{row[3]} ' + row[5] + row[6]
-    elif row[4]: title = f'{row[4]} ' + row[5] + row[6]
+    if row[3]: title = f'{row[3]} ' + row[5]
+    elif row[4]: title = f'{row[4]} ' + row[5]
     else: title = row[5]
+    # Adds apartment number
+    if row[6]: title += f' {row[6]}'
 
     # Add description
       # Add english addenda from inscription
@@ -32,9 +34,16 @@ def Start():
 
     # Find property type
 
-    # Get sale or rent status
-
     # get price
+    if row[1] : 
+      sale_type = 'For Sale'
+      price = row[1]
+    elif row[2] : 
+      sale_type = 'For Rent'
+      price = row[2]
+    else : 
+      '0 for rent and sale price'
+      price = 0
 
     # get number of bedrooms & bathrooms
     bedrooms = row[10]
@@ -59,6 +68,8 @@ def Start():
 
     print(f'{id}')
     print(f'title: {title}')
+    print(f'price: {price}')
+    print(f'sale_type: {sale_type}')
     print('--------------------')
     print(f'english description: {description_english}')
     print('********************')
