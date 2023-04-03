@@ -1,53 +1,56 @@
 I do not have comprehensive descriptions for each column, so I need to go through them one by one and compare them to
 their listing page to try and find out what exactly each column is
 
-PRIX_DEMANDE is asking price if buying
-DEVISE_PRIX_DEMANDE is currency if buying
+PRIX_DEMANDE - asking price if buying
+DEVISE_PRIX_DEMANDE - currency if buying
+PRIX_LOCATION_DEMANDE - price if renting
+DEVISE_PRIX_LOCATION_DEMANDE - currency if renting
 
-DATE_MISE_EN_VIGUER is entry date
-URL_VISITE_VIRTUELLE_FRANCAIS is french virtual visit
-URL_VISITE_VIRTUELLE_ANGLAIS is english virtual visit
-URL_DESC_DETAILLEE is passerelle link
+DATE_MISE_EN_VIGUER - entry date
+URL_VISITE_VIRTUELLE_FRANCAIS - french virtual visit
+URL_VISITE_VIRTUELLE_ANGLAIS - english virtual visit
+URL_DESC_DETAILLEE - passerelle link
 
-NO_CIVIQUE_DEBUT is address number
-NO_CIVIQUE_FIN is address number 2 (edge case)
-NOM_RUE_COMPLET is address number
-APPARTEMENT is appartment number
-CODE_POSTAL is postal code
+NO_INSCRIPTION - MLS number
+NO_CIVIQUE_DEBUT - address number
+NO_CIVIQUE_FIN - address number 2 (edge case)
+NOM_RUE_COMPLET - address number
+APPARTEMENT - appartment number
+CODE_POSTAL - postal code
 
-DATE_OCCUPATION im not sure
-DELAI_OCCUPATION_FRANCAIS not sure
-DELAI_OCCUPATION_ANGLAIS not sure
+DATE_OCCUPATION - im not sure
+DELAI_OCCUPATION_FRANCAIS - not sure
+DELAI_OCCUPATION_ANGLAIS - not sure
 
-GENRE_PROPRIETE i think property/lot type
-ANNEE_CONTRUCTION year built
+GENRE_PROPRIETE - i think property/lot type
+ANNEE_CONTRUCTION - year built
 
-UM_DIMENSION_BATIMENT not sure
-UM_DIMENSION_TERRAIN not sure
+UM_DIMENSION_BATIMENT - not sure
+UM_DIMENSION_TERRAIN - not sure
 
-ANNEE_EVALUATION is year evaluated
+ANNEE_EVALUATION - year evaluated
 
-NB_PIECES is number of rooms
-NB_CHAMBRES is number of bedrooms total
-NB_CHAMBRES_SOUS_SOL number of bedrooms in basement
-NB_CHAMBRES_HORS_SOL is number of bedrooms above basement
-NB_SALLES_BAINS is number of bathrooms
-NB_SALLES_EAU is number of powder rooms
+NB_PIECES - number of rooms
+NB_CHAMBRES - number of bedrooms total
+NB_CHAMBRES_SOUS_SOL - number of bedrooms in basement
+NB_CHAMBRES_HORS_SOL - number of bedrooms above basement
+NB_SALLES_BAINS - number of bathrooms
+NB_SALLES_EAU - number of powder rooms
 
-INCLUS_FRANCAIS extras included
-INCLUS_ANGLAIS extras included
+INCLUS_FRANCAIS - extras included
+INCLUS_ANGLAIS - extras included
 
-EXCLUS_FRANCAIS not sure
-EXCLUS_ANGLAIS not sure
+EXCLUS_FRANCAIS - not sure
+EXCLUS_ANGLAIS - not sure
 
-NB_UNITES_TOTAL not sure
-DATE_MODIF assuming its last time changed, not sure though
+NB_UNITES_TOTAL - not sure
+DATE_MODIF - assuming its last time changed, not sure though
 
-CODE_STATUT not sure but they all say 'EV'
-RAISON_SOCIALE assuming social services in the building
+CODE_STATUT - not sure but they all say 'EV'
+RAISON_SOCIALE - assuming social services in the building
 
 LATITUDE
 LONGITUDE
 
-ADDENDA_COMPLET_F complete description/features in french
-ADDENDA_COMPLET_A complete description/features in english
+ADDENDA_COMPLET_F - complete description/features in french
+ADDENDA_COMPLET_A - complete description/features in english
