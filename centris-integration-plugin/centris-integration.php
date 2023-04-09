@@ -7,7 +7,7 @@ Author: Yanis Falaki
 Author URI: https://webaradigital.com
 */
 
-include 'integration.php';
+//include 'integration.php';
 
 function cenris_integration_add_menu_page() {
   add_menu_page(
