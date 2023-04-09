@@ -1,9 +1,10 @@
 <?php
 // For development purposes an absolute path in windows style notation must be used as the plugin is a symlink and LocalWP is using a windows based shell
 $path = "D:\Local Repo\local-sites\jb-staging\app\public\wp-load.php";
+//$path = "/mnt/d/Local Repo/local-sites/jb-staging/app/public/wp-load.php";
 
 // Load WordPress
-define( 'SHORTINIT', true );
+//define( 'SHORTINIT', true );
 require_once($path);
 
 $var_tables = [
@@ -89,6 +90,14 @@ function Query(&$table, $return_columns, $where_columns){
 */
 
 
-print('hellow world');
+$args = array(
+  'post_type' => 'post',
+  'posts_per_page' => 5,
+);
+
+$wp_query = new WP_Query($args);
+
+var_dump($wp_query);
+
 SetTables($var_tables, $const_tables);
 ?>
