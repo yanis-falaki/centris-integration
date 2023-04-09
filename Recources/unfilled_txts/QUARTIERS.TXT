@@ -1,0 +1,660 @@
+MUN_CODE,CODE,DESCRIPTION_FRANCAISE,DESCRIPTION_ANGLAISE
+57040,E,"Du Centenaire","Du Centenaire"
+57040,F,"Du Golf","Du Golf"
+57040,G,"Du Tournesol","Du Tournesol"
+57040,H,"Du Vieux-Beloeil","Du Vieux-Beloeil"
+01023,A,Cap-aux-Meules,Cap-aux-Meules
+87904,A,Languedoc,Languedoc
+87904,Z,Autres,Others
+87904,B,"Saint-Eugène-de-Chazel","Saint-Eugène-de-Chazel"
+89045,A,Obaska,Obaska
+89045,Z,Autres,Others
+65108,A,"Ferme Papineau","Ferme Papineau"
+65108,B,"Seigneurie Bellerose","Seigneurie Bellerose"
+65108,C,"Terry Fox","Terry Fox"
+65108,Z,Autres,Others
+37067,A,Cap-de-la-Madeleine,Cap-de-la-Madeleine
+37067,B,Pointe-du-Lac,Pointe-du-Lac
+37067,C,Saint-Louis-de-France,Saint-Louis-de-France
+37067,D,Sainte-Marthe-du-Cap,Sainte-Marthe-du-Cap
+37067,E,"Trois-Rivières","Trois-Rivières"
+37067,F,"Trois-Rivières-Ouest","Trois-Rivières-Ouest"
+66505,D,Griffintown,Griffintown
+99062,A,Beaucanton,Beaucanton
+99062,B,Val-Paradis,Val-Paradis
+82030,D,Onslow,Onslow
+82035,C,Alcove,Alcove
+82035,D,Farrelton,Farrelton
+82035,E,Duclos,Duclos
+82035,F,"East Aldfield","East Aldfield"
+82035,G,Lac-des-Loups,Lac-des-Loups
+82035,H,Wakefield,Wakefield
+81017,V,"Touraine (maisons mobiles)","Touraine (mobile homes)"
+81017,W,"Ferme Limbour, Limbour","Ferme Limbour, Limbour"
+81017,X,Mont-Luc,Mont-Luc
+81025,J,"Aylmer Nord","Aylmer Nord"
+81025,K,Rivermead,Rivermead
+81025,L,Lakeview,Lakeview
+94930,C,"Zec Onatchiway","Zec Onatchiway"
+94930,D,"Zec du Lac-de-la-Boiteuse","Zec du Lac-de-la-Boiteuse"
+01023,B,Fatima,Fatima
+01023,C,"Grande-Entrée","Grande-Entrée"
+01023,D,Havre-aux-Maisons,Havre-aux-Maisons
+01023,E,"L'Étang-du-Nord","L'Étang-du-Nord"
+01023,F,"L'Île-d'Entrée","L'Île-d'Entrée"
+01023,G,"L'Île-du-Havre-Aubert","L'Île-du-Havre-Aubert"
+02005,A,"Cap d'Espoir","Cap d'Espoir"
+02005,B,"Percé","Percé"
+02005,C,Saint-Georges-Malbaie,Saint-Georges-Malbaie
+02028,A,Chandler,Chandler
+02028,B,Newport,Newport
+02028,C,Pabos,Pabos
+02028,D,"Pabos Mills","Pabos Mills"
+02028,E,"Saint-François-de-Pabos","Saint-François-de-Pabos"
+03005,A,Anse-Griffon/Cap-Rosiers/Forillon/Cap-Os,Anse-Griffon/Cap-Rosiers/Forillon/Cap-Os
+03005,B,"Gaspé","Gaspé"
+03005,C,"Rivière-au-Renard","Rivière-au-Renard"
+03005,D,"Saint-Majorique, Wakeham, Pointe-Navare","Saint-Majorique, Wakeham, Pointe-Navare"
+03005,E,St-Maurice/Pte-Jaune/Anse-Valleau/P.-Cap,St-Maurice/Pte-Jaune/Anse-Valleau/P.-Cap
+03005,F,"York, Haldimand, Douglastown","York, Haldimand, Douglastown"
+08053,A,Matane,Matane
+08053,B,Petit-Matane,Petit-Matane
+08053,C,"Saint-Jérome-de-Matane","Saint-Jérome-de-Matane"
+08053,D,Saint-Luc-de-Matane,Saint-Luc-de-Matane
+09050,A,"Les Boules","Les Boules"
+09050,B,"Métis-sur-Mer","Métis-sur-Mer"
+09077,A,Mont-Joli,Mont-Joli
+09077,B,Saint-Jean-Baptiste,Saint-Jean-Baptiste
+09092,A,Luceville,Luceville
+09092,B,Sainte-Luce,Sainte-Luce
+10043,A,Nazareth,Nazareth
+10043,B,"Pointe-au-Père","Pointe-au-Père"
+10043,C,Rimouski-Est,Rimouski-Est
+10043,D,"Sacré-Coeur","Sacré-Coeur"
+10043,E,"Sainte-Agnès/Saint-Germain","Sainte-Agnès/Saint-Germain"
+10043,F,Sainte-Blandine/Mont-Lebel,Sainte-Blandine/Mont-Lebel
+10043,G,Sainte-Odile,Sainte-Odile
+10043,H,Saint-Robert,Saint-Robert
+10043,I,"Terrasses Arthur-Buies","Terrasses Arthur-Buies"
+10043,J,"Saint-Pie X","Saint-Pie X"
+10043,K,"Le Bic","Le Bic"
+13070,A,Cabano,Cabano
+13070,B,Notre-Dame-du-Lac,Notre-Dame-du-Lac
+16023,A,"La Baleine","La Baleine"
+16023,B,"L'Isle-aux-Coudres","L'Isle-aux-Coudres"
+16048,A,"Les Éboulements","Les Éboulements"
+16048,B,Saint-Joseph-de-la-Rive,Saint-Joseph-de-la-Rive
+23005,A,Laurentides,Laurentides
+23005,B,Saint-Michel,Saint-Michel
+23005,C,Vieux-Moulin,Vieux-Moulin
+23005,D,Vieux-Bourg,Vieux-Bourg
+23005,E,Chutes-Montmorency,Chutes-Montmorency
+23027,A,"Vieux-Québec/Cap-Blanc/Colline parlem.","Vieux-Québec/Cap-Blanc/Colline parlem."
+23027,B,Saint-Jean-Baptiste,Saint-Jean-Baptiste
+23027,C,Saint-Roch,Saint-Roch
+23027,D,Montcalm,Montcalm
+23027,E,Saint-Sauveur,Saint-Sauveur
+23027,F,Saint-Sacrement,Saint-Sacrement
+23027,G,Lairet,Lairet
+23027,H,Maizerets,Maizerets
+23027,I,"Vieux Limoilou","Vieux Limoilou"
+23028,D,"Des Châtels","Des Châtels"
+23028,A,"Neufchâtel-Est/Lebourgneuf","Neufchâtel-Est/Lebourgneuf"
+23028,B,"Duberger/Les Saules","Duberger/Les Saules"
+23028,C,Vanier,Vanier
+23029,A,"Cité-Universitaire","Cité-Universitaire"
+23029,B,Plateau,Plateau
+23029,C,Pointe-de-Sainte-Foy,Pointe-de-Sainte-Foy
+23029,D,Saint-Louis,Saint-Louis
+23029,E,Sillery,Sillery
+23029,F,"Aéroport","Aéroport"
+23029,G,Cap-Rouge,Cap-Rouge
+23030,A,Notre-Dame-des-Laurentides,Notre-Dame-des-Laurentides
+23030,B,Orsainville,Orsainville
+23030,C,"Charlesbourg Est","Charlesbourg Est"
+23030,D,"Des Jésuites","Des Jésuites"
+23030,E,"Charlesbourg Ouest","Charlesbourg Ouest"
+23030,F,Atrium,Atrium
+23031,F,"Neufchâtel-Est/Lebourgneuf","Neufchâtel-Est/Lebourgneuf"
+23031,A,Loretteville,Loretteville
+23031,B,"Saint-Émile","Saint-Émile"
+23031,C,Lac-Saint-Charles,Lac-Saint-Charles
+23031,D,"Des Châtels","Des Châtels"
+23031,E,"Val-Bélair","Val-Bélair"
+23070,A,Est,East
+23070,B,Ouest,West
+25214,A,Charny,Charny
+25214,B,"Sainte-Hélène-de-Breakeyville","Sainte-Hélène-de-Breakeyville"
+25214,C,Saint-Jean-Chrysostome,Saint-Jean-Chrysostome
+25214,D,Saint-Romuald,Saint-Romuald
+25215,A,"Saint-Étienne-de-Lauzon","Saint-Étienne-de-Lauzon"
+25215,B,Saint-Nicolas,Saint-Nicolas
+25215,C,"Saint-Rédempteur","Saint-Rédempteur"
+25216,A,"Lévis","Lévis"
+25216,B,Pintendre,Pintendre
+25216,C,"Saint-Joseph-de-la-Pointe-de-Lévy","Saint-Joseph-de-la-Pointe-de-Lévy"
+28053,A,Lac-Etchemin,Lac-Etchemin
+28053,B,Sainte-Germaine,Sainte-Germaine
+29010,A,"Saint-Gédéon","Saint-Gédéon"
+29010,B,"Saint-Gédéon-de-Beauce","Saint-Gédéon-de-Beauce"
+29075,A,Aubert-Gallion,Aubert-Gallion
+29075,B,Saint-Georges,Saint-Georges
+29075,C,Saint-Georges-Est,Saint-Georges-Est
+29075,D,Saint-Jean-de-la-Lande,Saint-Jean-de-la-Lande
+31056,A,Adstock,Adstock
+31056,B,"Sacré-Coeur-de-Marie","Sacré-Coeur-de-Marie"
+31056,C,Sainte-Anne-du-Lac,Sainte-Anne-du-Lac
+31056,D,"Saint-Méthode","Saint-Méthode"
+31087,A,"Black Lake","Black Lake"
+31087,B,Pontbriand,Pontbriand
+31087,C,Robertsonville,Robertsonville
+31087,D,"Thetford Mines","Thetford Mines"
+31087,E,"Thetford Sud","Thetford Sud"
+34050,A,Notre-Dame-de-Portneuf,Notre-Dame-de-Portneuf
+34050,B,Portneuf-Sud,Portneuf-Sud
+35010,A,Hervey-Jonction,Hervey-Jonction
+35010,B,Lac-aux-Sables,Lac-aux-Sables
+36033,E,"Grand-Mère","Grand-Mère"
+36033,F,"Sainte-Flore de Grand-Mère","Sainte-Flore de Grand-Mère"
+38010,A,"Bécancour","Bécancour"
+38010,B,Gentilly,Gentilly
+38010,C,"Précieux-Sang","Précieux-Sang"
+38010,D,"Sainte-Angèle","Sainte-Angèle"
+38010,E,Sainte-Gertrude,Sainte-Gertrude
+38010,F,"Saint-Grégoire","Saint-Grégoire"
+39155,A,Sainte-Anne-du-Sault,Sainte-Anne-du-Sault
+39155,B,Defoy,Defoy
+41012,B,Saint-Isidore-de-Clifton,Saint-Isidore-de-Clifton
+41012,C,Saint-Mathias,Saint-Mathias
+41042,A,Cookshire,Cookshire
+41042,B,"Canton Eaton","Canton Eaton"
+41042,C,Sawyerville,Sawyerville
+42100,A,"Lac Boissonneault","Lac Boissonneault"
+42100,B,Saint-Claude,Saint-Claude
+43030,A,"Rock Forest","Rock Forest"
+43030,B,"Saint-Élie d'Orford","Saint-Élie d'Orford"
+43030,C,Deauville,Deauville
+59010,A,"De la Belle-Rivière-Ringuet","De la Belle-Rivière-Ringuet"
+44015,A,"Saint-Herménégilde","Saint-Herménégilde"
+44015,B,"Wallace Pond","Wallace Pond"
+49057,A,Drummondville,Drummondville
+49057,B,Saint-Charles-de-Drummond,Saint-Charles-de-Drummond
+49057,C,Saint-Joachim-de-Courval,Saint-Joachim-de-Courval
+49057,D,"Saint-Nicéphore","Saint-Nicéphore"
+53052,A,Sorel,Sorel
+53052,B,Tracy,Tracy
+54045,A,Assomption/Annexe,Assomption/Annexe
+54045,B,Bourg-Joli/Bois-Joli,Bourg-Joli/Bois-Joli
+54045,C,Centre-Ville/Christ-Roi,Centre-Ville/Christ-Roi
+54045,D,Douville,Douville
+54045,E,"La Providence","La Providence"
+54045,F,Saint-Joseph,Saint-Joseph
+54045,H,Sainte-Rosalie,Sainte-Rosalie
+54045,I,"Saint-Thomas-d'Aquin","Saint-Thomas-d'Aquin"
+56023,A,Lacolle,Lacolle
+56023,B,Notre-Dame-du-Mont-Carmel,Notre-Dame-du-Mont-Carmel
+56083,A,Saint-Luc,Saint-Luc
+56083,B,"L'Acadie","L'Acadie"
+56083,C,Saint-Jean-sur-Richelieu,Saint-Jean-sur-Richelieu
+56083,D,Iberville,Iberville
+56083,E,Saint-Athanase,Saint-Athanase
+58005,A,"Noms de rues (A)","Street names (A)"
+58005,B,"Noms de rues (B)","Street names (B)"
+58005,C,"Noms de rues (C)","Street names (C)"
+58005,I,"Noms de rues (I)","Street names (I)"
+58005,J,"Noms de rues (J)","Street names (J)"
+58005,L,"Noms de rues (L)","Street names (L)"
+58005,M,"Noms de rues (M)","Street names (M)"
+58005,N,"Noms de rues (N)","Street names (N)"
+58005,O,"Noms de rues (O)","Street names (O)"
+58005,P,"Noms de rues (P)","Street names (P)"
+58005,R,"Noms de rues (R)","Street names (R)"
+58005,S,"Noms de rues (S)","Street names (S)"
+58005,T,"Noms de rues (T)","Street names (T)"
+58005,V,"Noms de rues (V)","Street names (V)"
+58005,Z,Autres,Others
+58020,G,Orchard,Orchard
+58020,H,"Noms de rues (B)","Street names (B)"
+58020,I,Westley,Westley
+58020,J,Centre,Central
+58020,K,Prince-Charles,Prince-Charles
+58020,L,"Noms de rues (M+)","Street names (M+)"
+58020,M,"Parc de la Cité","Parc de la Cité"
+58020,N,"Le Boisé de Saint-Hubert","Le Boisé de Saint-Hubert"
+58020,C,"Laflèche","Laflèche"
+58020,E,Sir-Wilfrid-Laurier,Sir-Wilfrid-Laurier
+58020,F,"Noms de rues (L-P+)","Street names (L-P+)"
+58227,A,"Vieux Longueuil","Vieux Longueuil"
+58227,B,Centre,Central
+58227,C,"Nobert Sud","Nobert South"
+58227,D,"Noms de rues (P M C)","Street names (P M C)"
+58227,E,Est,East
+58227,F,Bellerive,Bellerive
+58227,G,"Les Jardins de la Collectivité","Les Jardins de la Collectivité"
+58227,H,Fatima,Fatima
+58227,I,"Collectivité","Collectivité"
+58227,J,"Parcours du Cerf","Parcours du Cerf"
+58227,K,"Pierre Boucher","Pierre Boucher"
+58227,L,"Montréal Sud","Montréal South"
+58227,M,"Parc industriel","Industrial Park"
+58227,N,Lemoyne,Lemoyne
+59005,I,Harmonie,Harmonie
+59005,J,Industriel,Industrial
+59005,K,"Le Boisé","Le Boisé"
+59005,A,"Vieux Village","Vieux Village"
+59005,B,Est,East
+59005,C,"Rivière aux Pins","Rivière aux Pins"
+59005,D,"Jardins Sabrevois","Jardins Sabrevois"
+59005,E,"La Seigneurie","La Seigneurie"
+59005,F,"Champ du Papillon","Champ du Papillon"
+59005,G,Golf,Golf
+59005,H,Normandie,Normandie
+59005,Z,Autres,Others
+63048,A,Saint-Lin,Saint-Lin
+63048,B,"Ville des Laurentides","Ville des Laurentides"
+64005,A,"Golf du Boisé","Golf du Boisé"
+64005,B,"Des Moulins","Des Moulins"
+64005,C,Ville,City
+64005,D,"Carrefour des Fleurs","Carrefour des Fleurs"
+64005,E,"O'Diana","O'Diana"
+64008,A,Ouest,West
+64008,B,"Côte Terrebonne","Côte Terrebonne"
+64008,C,"Parc industriel 640","640 Industrial Park"
+64008,D,Saint-Louis/Hauteville,Saint-Louis/Hauteville
+64008,E,"Île Saint-Jean","Île Saint-Jean"
+64008,F,Centre,Central
+64008,G,"Vieux Terrebonne","Vieux Terrebonne"
+64015,B,"Mascouche Heights","Mascouche Heights"
+64015,C,Ville,City
+64015,D,"Lac Samson","Lac Samson"
+64015,E,"Domaine Guilbault","Domaine Guilbault"
+64015,F,Albi,Albi
+64020,A,"Ville (Nord-Ouest)","City (North West)"
+64020,B,"Lac André","Lac André"
+64020,C,Laurier/Chartrand,Laurier/Chartrand
+65103,A,"Îles Laval","Îles Laval"
+65103,B,"Ouest Islemère","West Islemère"
+65103,C,"Est Islemère","East Islemère"
+65104,A,Ouest,West
+65104,B,Est,East
+65105,A,"Domaine Renaud","Domaine Renaud"
+65105,B,"Place Renaud","Place Renaud"
+65105,C,"Carrefour Saint-Martin","Carrefour Saint-Martin"
+65105,Z,Autres,Others
+65109,A,"Cité de la Santé","Cité de la Santé"
+65109,B,"Ferme Papineau","Ferme Papineau"
+65109,Z,Autres,Others
+65111,A,Est,East
+65111,B,"Val des Arbres","Val des Arbres"
+65111,C,"Val des Brises","Val des Brises"
+65111,D,"Ferme Papineau","Ferme Papineau"
+65111,Z,Autres,Others
+66057,A,Ouest,West
+66057,B,Est,East
+66057,C,Saint-Pierre,Saint-Pierre
+66085,A,Nord,North
+66085,B,"Sud Ouest","South West"
+66085,C,"Sud Est","South East"
+66095,A,"Sud Est","South East"
+66095,B,"Sud Ouest","South West"
+66095,C,"Centre Est","Central East"
+66095,D,"Centre Ouest","Central West"
+66095,E,Nord,North
+66100,A,"Sud Est","South East"
+66100,B,"Sud Ouest","South West"
+66100,C,"Nord Est","North East"
+66100,D,"Nord Ouest","North West"
+66100,E,Timberlea,Timberlea
+66105,A,"Beacon Hill (Nord Est)","Beacon Hill (North East)"
+66105,B,"Forest Gardens (Centre Nord)","Forest Gardens (Central North)"
+66105,C,"Sherwood (Nord Ouest)","Sherwood (North West)"
+66105,D,"Sud Est","South East"
+66105,E,"Centre Sud","Central South"
+66105,F,"Beaurepaire (Sud Ouest)","Beaurepaire (South West)"
+66110,A,Ouest,West
+66110,B,Est,East
+66115,A,Sud,South
+66115,B,Nord,North
+66130,A,Pierrefonds/Ouest,Pierrefonds/West
+66130,B,"Pierrefonds/Centre Ouest","Pierrefonds/Central West"
+66130,C,"Pierrefonds/Centre Est","Pierrefonds/Central East"
+66130,Z,Roxboro,Roxboro
+66130,D,Pierrefonds/Est,Pierrefonds/East
+66140,A,Ouest,West
+66140,B,Centre,Central
+66140,C,Est,East
+66150,M,"Sainte-Geneviève","Sainte-Geneviève"
+66150,Z,"L'Île-Bizard","L'Île-Bizard"
+66501,A,"Côte-des-Neiges","Côte-des-Neiges"
+66501,B,"Notre-Dame-de-Grâce","Notre-Dame-de-Grâce"
+66505,A,"Saint-Henri/Petite Bourgogne","Saint-Henri/Petite Bourgogne"
+66505,B,"Saint-Paul/Émard","Saint-Paul/Émard"
+66505,C,Pointe-Saint-Charles,Pointe-Saint-Charles
+66506,A,"Bois de Saraguay","Bois de Saraguay"
+66506,B,Cartierville,Cartierville
+66506,C,"Nouveau Bordeaux","Nouveau Bordeaux"
+66506,D,"Ahuntsic Ouest","Ahuntsic West"
+66506,E,"Ahuntsic Centre","Ahuntsic Central"
+66506,F,"Ahuntsic Est","Ahuntsic East"
+66507,A,Villeray,Villeray
+66507,B,Saint-Michel,Saint-Michel
+66507,C,Parc-Extension,Parc-Extension
+66508,A,"Le Plateau-Mont-Royal","Le Plateau-Mont-Royal"
+66508,B,Mile-End,Mile-End
+66509,A,"Vieux-Montréal","Old Montréal"
+66509,B,"Centre Ouest","Central West"
+66509,C,Centre,Central
+66511,H,"Cité-Jardin","Cité-Jardin"
+66511,B,"La Petite-Patrie","La Petite-Patrie"
+66513,A,Nouveau-Rosemont,"New Rosemont"
+66513,B,Hochelaga-Maisonneuve,Hochelaga-Maisonneuve
+66513,C,Mercier,Mercier
+66514,A,"Rivière-des-Prairies","Rivière-des-Prairies"
+66514,B,Pointe-aux-Trembles,Pointe-aux-Trembles
+66516,A,Verdun,Verdun
+66516,B,"Île-des-Sœurs","Île-des-Sœurs"
+67015,L,"La Briqueterie","La Briqueterie"
+67015,A,"Le Christ Roi","Le Christ Roi"
+67015,B,"Le Vieux Fort","Le Vieux Fort"
+67015,C,"Le Fort Neuf","Le Fort Neuf"
+67015,D,"La Citière","La Citière"
+67015,E,"La Berge","La Berge"
+67015,F,"La Clairière","La Clairière"
+67015,G,"La Magdeleine","La Magdeleine"
+67015,H,"L'Arrondissement","L'Arrondissement"
+67015,I,"Le Grand Boisé","Le Grand Boisé"
+67015,J,"Parc industriel","Industrial Park"
+67015,K,"Zone Rurale","Rural Area"
+70022,A,Beauharnois,Beauharnois
+70022,B,Melocheville,Melocheville
+70022,C,"Maple Grove","Maple Grove"
+70052,A,"Grande-Île","Grande-Île"
+70052,B,"Saint-Timothée","Saint-Timothée"
+70052,C,Salaberry-de-Valleyfield,Salaberry-de-Valleyfield
+71083,A,"Vaudreuil Est","Vaudreuil East"
+71083,B,Dorion,Dorion
+71083,C,"Vaudreuil Ouest","Vaudreuil West"
+71100,C,Centre,Central
+71100,D,Est,East
+71100,E,Ouest,West
+71105,A,Saddlebrook,Saddlebrook
+71105,B,Cedarbrook,Cedarbrook
+71105,C,"Forest Hill","Forest Hill"
+71105,D,"Maple/Héritage/Birdsdale/Cèdres","Maple/Héritage/Birdsdale/Cèdres"
+71105,E,"Green Maple Hill","Green Maple Hill"
+71105,F,"Pine Ridge","Pine Ridge"
+71105,G,"Le Boisé Colonial","Le Boisé Colonial"
+71105,H,Dynastie/Sandbrook,Dynastie/Sandbrook
+71105,I,"Centre Saint-Lazare","Central Saint-Lazare"
+71105,J,"Grand Pré/Frontenac","Grand Pré/Frontenac"
+71105,K,"Vallée Chaline","Vallée Chaline"
+71105,L,Chanterel,Chanterel
+71105,M,"Le Boisé Champêtre","Le Boisé Champêtre"
+71133,A,Rigaud,Rigaud
+71133,B,Sainte-Madeleine-de-Rigaud,Sainte-Madeleine-de-Rigaud
+72005,A,"Nord Ouest","North West"
+72005,B,Ouest,West
+72005,C,"Centre Ouest","Central West"
+72005,D,"Centre Est","Central East"
+72005,E,Est,East
+72005,F,"Nord Est","North East"
+72010,A,Nord,North
+72010,B,Sud,South
+72015,A,Nord,North
+72015,B,Sud,South
+72025,A,Nord,North
+72025,B,Sud,South
+73005,A,Nord,North
+73005,B,Centre,Central
+73005,C,Est,East
+73005,D,"Faubourg Boisbriand","Faubourg Boisbriand"
+73010,A,"En Haut","En Haut"
+73010,B,"Centre (Vieux)","Central (Old)"
+73010,C,"Jardin Blainville","Jardin Blainville"
+73015,A,Nord,North
+73015,B,Sud,South
+73015,C,Est,East
+73015,Z,Autres,Others
+74005,A,Saint-Augustin,Saint-Augustin
+74005,B,"Saint-Benoît","Saint-Benoît"
+74005,C,Saint-Canut,Saint-Canut
+74005,D,Saint-Janvier,Saint-Janvier
+74005,E,Saint-Hermas,Saint-Hermas
+74005,F,Sainte-Scholastique,Sainte-Scholastique
+74005,G,Sainte-Monique,Sainte-Monique
+74005,H,"Saint-Jérusalem","Saint-Jérusalem"
+74005,I,Saint-Antoine,Saint-Antoine
+74005,J,"Domaine Vert Sud","Domaine Vert Sud"
+74005,K,"Domaine Vert Nord","Domaine Vert Nord"
+74005,L,"Mirabel en Haut","Mirabel en Haut"
+74005,M,Petit-Saint-Charles,Petit-Saint-Charles
+75017,A,Bellefeuille,Bellefeuille
+75017,B,Lafontaine,Lafontaine
+75017,C,Saint-Antoine,Saint-Antoine
+75017,D,"Saint-Jérôme","Saint-Jérôme"
+76052,A,"Canton Grenville","Canton Grenville"
+76052,B,Calumet,Calumet
+77022,A,"Sainte-Adèle","Sainte-Adèle"
+77022,B,"Mont Rolland","Mont Rolland"
+78102,A,"Village Mont-Tremblant","Village Mont-Tremblant"
+78102,B,"Tremblant (Station)","Tremblant (Station)"
+78102,C,Saint-Jovite,Saint-Jovite
+79037,A,"L'Annonciation","L'Annonciation"
+79037,B,Marchand,Marchand
+79037,C,"Sainte-Véronique","Sainte-Véronique"
+79075,A,Beaux-Rivages,Beaux-Rivages
+79075,B,"Lac-des-Écorces","Lac-des-Écorces"
+79075,C,Val-Barrette,Val-Barrette
+79085,A,"Des Ruisseaux","Des Ruisseaux"
+79085,B,Mont-Laurier,Mont-Laurier
+81005,BB1,"Buckingham Ouest","Buckingham West"
+81005,BB2,"Buckingham Est","Buckingham East"
+81010,A,Masson,Masson
+81010,B,Angers,Angers
+81017,GA1,"Saint-François, La Baie","Saint-François, La Baie"
+81017,GB1,"Moreau, Le Coteau","Moreau, Le Coteau"
+81017,GB2,"Carrefour de la Capitale","Carrefour de la Capitale"
+81017,GB3,"Du Barry","Du Barry"
+81017,GC1,Saint-Rosaire,Saint-Rosaire
+81017,GC2,"Técumseh","Técumseh"
+81017,GC3,"Carrefour et Centre ville","Carrefour et Centre ville"
+81017,GD1,"Town Side, Le Moulin","Town Side, Le Moulin"
+81017,GD2,"Notre-Dame, Côté ville","Notre-Dame, Côté ville"
+81017,GE1,"Apollo, Desnoyers","Apollo, Desnoyers"
+81017,GF1,"Paroisse Saint-René (bureau de poste)","Paroisse Saint-René (bureau de poste)"
+81017,GF2,Achbar,Achbar
+81017,GG1,"Paroisse St-Richard, Magnus Ouest","Paroisse St-Richard, Magnus Ouest"
+81017,GG2,"Orée des Bois, La Vérendrye, Colline","Orée des Bois, La Vérendrye, Colline"
+81017,GH1,"Nord de l'autoroute 50","Nord de l'autoroute 50"
+81017,GH2,"Hôpital, Val-Boisée","Hôpital, Val-Boisée"
+81017,GI1,"La Sablonnière","La Sablonnière"
+81017,GI2,"La Blanche et Industriel","La Blanche et Industriel"
+81017,GJ1,"Des Fleurs,Rémi Berthiaume,Cheval Blanc","Des Fleurs,Rémi Berthiaume,Cheval Blanc"
+81017,GK1,"Touraine (Riviera)","Touraine (Riviera)"
+81017,GL1,"Côte Azur","Côte Azur"
+81020,HABC,"Île de Hull","Île de Hull"
+81020,HD1,Saint-Jean-Bosco,Saint-Jean-Bosco
+81020,HE1,"Val-Tétreau","Val-Tétreau"
+81020,HFG1,"Lac des Fées, Wrightville","Lac des Fées, Wrightville"
+81020,HH1,"Secteur Boul. Fournier","Secteur Boul. Fournier"
+81020,HI1,"Parc industriel et secteur Mutchmore","Parc industriel et secteur Mutchmore"
+81020,HJK,"Parc de la Montagne","Parc de la Montagne"
+81020,HL1,Mont-Bleu,Mont-Bleu
+81020,HL2,"Richelieu, Hautes Plaines, Dôme","Richelieu, Hautes Plaines, Dôme"
+81020,HM1,"Manoir des Trembles","Manoir des Trembles"
+81020,HM2,"Plateau de la Capitale","Plateau de la Capitale"
+81025,AA1,"Deschênes","Deschênes"
+81025,AB1,"Vieux Aylmer, Des Cèdres, Marina","Vieux Aylmer, Des Cèdres, Marina"
+81025,AB2,McLeod,McLeod
+81025,AC1,"Aylmer Park, Wychwood","Aylmer Park, Wychwood"
+81025,AC2,"Projet Pilon","Projet Pilon"
+81025,AD1,"La Seigneurie, Glenwood","La Seigneurie, Glenwood"
+81025,AE1,"Parc Champlain","Parc Champlain"
+81025,AF1,"Jardins Lavigne","Jardins Lavigne"
+81025,I,"Plateau de la Capitale","Plateau de la Capitale"
+82015,EEB1,Perkins,Perkins
+82015,EEB2,"Saint-Pierre de Wakefield","Saint-Pierre de Wakefield"
+82015,EEB3,Poltimore,Poltimore
+82020,A,Cantley,Cantley
+82020,B,Mont-Cascades,Mont-Cascades
+82025,A,"Chelsea Est (Old Chelsea +)","Chelsea East (Old Chelsea +)"
+82025,B,"Chelsea Ouest (Ch. Montagne/Hollow Glen)","Chelsea West (Ch. Montagne/Hollow Glen)"
+82030,A,Breckenridge,Breckenridge
+82030,B,Quyon,Quyon
+82030,C,Luskville,Luskville
+82035,A,Edelweiss,Edelweiss
+82035,B,"Sainte-Cécile de Masham","Sainte-Cécile de Masham"
+83032,ENE1,"Gracefield (centre)","Gracefield (centre)"
+83032,ENF1,Wright,Wright
+83032,ENG1,Northfield,Northfield
+83065,A,Maniwaki-Nord,Maniwaki-North
+83065,B,Maniwaki-Sud,Maniwaki-South
+83088,A,Montcerf,Montcerf
+83088,B,Lytton,Lytton
+86042,B,"Lac Pelletier","Lac Pelletier"
+86042,CC,Beaudry,Beaudry
+86042,EE,Granada,Granada
+86042,F,Noranda-Nord,Noranda-North
+86042,FF,Vieux-Noranda,Vieux-Noranda
+86042,G,Noranda-Ouest,Noranda-West
+86042,HH,Saint-Sauveur,Saint-Sauveur
+86042,J,"Lac Dufault","Lac Dufault"
+86042,N,"Rouyn Centre","Rouyn Centre"
+86042,P,"Lac Beauchastel","Lac Beauchastel"
+86042,Q,Rouyn-Sud,Rouyn-South
+86042,S,"Montée du Sourire","Montée du Sourire"
+86042,T,Dallaire,Dallaire
+86042,UA,Arntfield,Arntfield
+86042,UB,Bellecombe,Bellecombe
+86042,UC,Cadillac,Cadillac
+86042,UD,"Cléricy","Cléricy"
+86042,UE,Cloutier,Cloutier
+86042,UF,"D'Alembert","D'Alembert"
+86042,UG,Destor,Destor
+86042,UH,"Évain","Évain"
+86042,UI,McWatters,McWatters
+86042,UJ,Montbeillard,Montbeillard
+86042,UK,Mont-Brun,Mont-Brun
+86042,UL,Rollet,Rollet
+87090,A,Centre-Ville,Centre-Ville
+87090,B,"Domaine Dubuc","Domaine Dubuc"
+87090,C,"Domaine Trudel","Domaine Trudel"
+87090,D,"Les Places","Les Places"
+87090,E,"Secteur Polyno","Secteur Polyno"
+87090,F,Rural,Rural
+88055,A,Amos-Est,Amos-East
+88055,F,"Domaine Bellevue","Domaine Bellevue"
+88055,H,Centre-Ville,Centre-Ville
+88055,I,Amos-Ouest,Amos-West
+89008,A,"Val Senneville","Val Senneville"
+89008,B,Sullivan,Sullivan
+89008,C,Lemoyne,Lemoyne
+89008,D,Vassan,Vassan
+89008,E,"De l'Aéroport","De l'Aéroport"
+89008,F,"Baie-Carrière","Baie-Carrière"
+89008,H,Centre-Ville,Centre-Ville
+89008,I,"De l'Hôpital","De l'Hôpital"
+89008,J,Dubuisson,Dubuisson
+89008,K,"Extérieur Est","Extérieur East"
+89008,L,"Lac Blouin","Lac Blouin"
+89008,M,Louvicourt,Louvicourt
+89008,O,"Extérieur Ouest","Extérieur West"
+89008,P,Bourlamaque,Bourlamaque
+89040,A,Senneterre,Senneterre
+89040,H,Mont-Bell,Mont-Bell
+90007,A,"La Tuque","La Tuque"
+90007,B,"La Croche","La Croche"
+90007,C,Parent,Parent
+90007,D,"Rivière-Windigo","Rivière-Windigo"
+90007,E,Rapide-Blanc,Rapide-Blanc
+91030,A,Sainte-Hedwidge,Sainte-Hedwidge
+91030,B,"Zec de la Lièvre","Zec de la Lièvre"
+92902,A,Chute-des-Passes,Chute-des-Passes
+92902,B,Zec-des-Passes,Zec-des-Passes
+92904,A,"Rivière-Mistassini","Rivière-Mistassini"
+92904,B,"Zec-de-la-Rivière-aux-Rats","Zec-de-la-Rivière-aux-Rats"
+93042,A,Alma,Alma
+93042,B,Delisle,Delisle
+93042,C,Saint-Coeur-de-Marie,Saint-Coeur-de-Marie
+94005,A,"Petit Saguenay","Petit Saguenay"
+94005,B,"Zec Buteux","Zec Buteux"
+94005,C,"Bas Saguenay","Bas Saguenay"
+94010,A,"L'Anse-Saint-Jean","L'Anse-Saint-Jean"
+94010,B,Zec-Anse-Saint-Jean,Zec-Anse-Saint-Jean
+94020,A,Ferland-et-Boilleau,Ferland-et-Boilleau
+94020,B,"Zec du Lac-Brébeuf","Zec du Lac-Brébeuf"
+94035,A,Saint-Fulgence,Saint-Fulgence
+94035,B,"Réservoir Pipmuacan","Réservoir Pipmuacan"
+94045,A,"Laterrière","Laterrière"
+94045,B,"Zec Mars-Moulin","Zec Mars-Moulin"
+94050,A1,Chicoutimi,Chicoutimi
+94050,B1,Chicoutimi-Nord,Chicoutimi-Nord
+94070,A1,"Jonquière","Jonquière"
+94070,B1,Arvida,Arvida
+94090,A,Saint-Ambroise,Saint-Ambroise
+94090,B,"Zec de la Boiteuse","Zec de la Boiteuse"
+94930,A,Mont-Valin,Mont-Valin
+94930,B,"Zec Martin-Valin","Zec Martin-Valin"
+96020,A,Marquette,Marquette
+96020,B,Mingan,Mingan
+97010,A,"Clarke City","Clarke City"
+97010,B,Gallix,Gallix
+97010,C,Moisie,Moisie
+97010,D,"Rivière Brochu","Rivière Brochu"
+97010,E,"Sept-Îles","Sept-Îles"
+97020,A,Pointe-aux-Anglais,Pointe-aux-Anglais
+97020,B,Port-Cartier,Port-Cartier
+97020,C,"Rivière Pentecôte","Rivière Pentecôte"
+71105,N,"Sand Castle","Sand Castle"
+36033,A,Shawinigan,Shawinigan
+36033,B,Shawinigan-Sud,Shawinigan-Sud
+36033,C,"Lac-à-la-Tortue","Lac-à-la-Tortue"
+36033,D,"Saint-Georges de Champlain","Saint-Georges de Champlain"
+36033,G,"Saint-Gérard-des-Laurentides","Saint-Gérard-des-Laurentides"
+36033,H,Saint-Jean-des-Piles,Saint-Jean-des-Piles
+66511,C,Nouveau-Rosemont,"New Rosemont"
+66511,D,"Rosemont Nord","Rosemont North"
+66511,E,"Shop Angus","Shop Angus"
+66511,F,Vieux-Rosemont,"Old Rosemont"
+66511,G,"Petite Italie","Little Italy"
+66509,D,"Cité du Havre","Cité du Havre"
+66509,E,"La Cité-Multimédia","La Cité-Multimédia"
+66509,F,Village,Village
+66509,G,"Mille Carré Doré","Golden Square Mile"
+65106,A,Champfleury,Champfleury
+65106,B,Industriel,Industrial
+65106,C,Renaissance,Renaissance
+65106,D,"Val/Jardins Ste-Rose","Val/Jardins Ste-Rose"
+65106,E,"Vieux Ste-Rose","Old Ste-Rose"
+39155,C,Daveluyville,Daveluyville
+67015,M,"Symbiocité","Symbiocité"
+66075,A,"Nouveau Saint-Laurent/Bois-Franc","New Saint-Laurent/Bois-Franc"
+66075,B,"Saint-Laurent Nord","Saint-Laurent North"
+66075,C,"Saint-Laurent Ouest","Saint-Laurent West"
+66075,D,"Vieux Saint-Laurent","Old Saint-Laurent"
+66075,Z,Autres,Others
+54045,J,Notre-Dame,Notre-Dame
+85050,A,"Laverlochère","Laverlochère"
+85050,B,Angliers,Angliers
+60035,A,Ville,City
+60035,B,Paroisse,Parish
+64008,H,Havre-du-Lac/Mirage,Havre-du-Lac/Mirage
+64008,I,"Parc industriel Léveillé","Léveillé Industrial Park"
+64005,F,"Parc industriel","Industrial Park"
+64020,D,"Parc industriel","Industrial Park"
+43025,A,Jacques-Cartier,Jacques-Cartier
+43025,B,Mont-Bellevue,Mont-Bellevue
+43030,D,Brompton,Brompton
+57020,A,Montagne,Montagne
+57020,B,Village,Village
+59010,B,"De la Montagne","De la Montagne"
+59010,C,"De la Vallée","De la Vallée"
+59010,D,"De l'Arc-en-Ciel","De l'Arc-en-Ciel"
+59010,E,"Du Grand-Coteau","Du Grand-Coteau"
+59010,F,"Du Moulin","Du Moulin"
+59010,G,"Du Rucher","Du Rucher"
+59010,H,"Du Vieux-Village","Du Vieux-Village"
+57040,A,"De Beloeil-Station","De Beloeil-Station"
+57040,B,"Des Bourgs","Des Bourgs"
+57040,C,"Des Bosquets","Des Bosquets"
+57040,D,"Des Villas","Des Villas"

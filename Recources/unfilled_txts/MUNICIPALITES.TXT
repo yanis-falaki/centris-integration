@@ -1,0 +1,1244 @@
+CODE,DESCRIPTION,REGION_CODE
+14902,Picard,01
+87902,Lac-Duparquet,08
+01023,"Les Îles-de-la-Madeleine",11
+01042,"Grosse-Île",11
+01999,"Territoires Autres / Other Territories",01
+02005,"Percé",11
+02010,"Sainte-Thérèse-de-Gaspé",11
+02015,"Grande-Rivière",11
+02028,Chandler,11
+02047,Port-Daniel/Gascons,11
+02999,"Territoires Autres / Other Territories",02
+03005,"Gaspé",11
+03010,Cloridorme,11
+03015,"Petite-Vallée",11
+03020,"Grande-Vallée",11
+03025,Murdochville,11
+03902,"Rivière-Saint-Jean",11
+03999,"Territoires Autres / Other Territories",03
+04005,"Sainte-Madeleine-de-la-Rivière-Madeleine",11
+04010,Saint-Maxime-du-Mont-Louis,11
+04015,Mont-Saint-Pierre,11
+04020,"Rivière-à-Claude",11
+04025,Marsoui,11
+04030,"La Martre",11
+04037,Sainte-Anne-des-Monts,11
+04047,Cap-Chat,11
+04902,Mont-Albert,11
+04999,"Territoires Autres / Other Territories",04
+05010,Shigawake,11
+05015,Saint-Godefroi,11
+05020,"Hope Town",11
+05025,Hope,11
+05032,"Paspébiac",11
+05040,"New Carlisle",11
+05045,Bonaventure,11
+05050,"Saint-Elzéar",11
+05055,"Saint-Siméon",11
+05060,Caplan,11
+05065,Saint-Alphonse,11
+05070,"New Richmond",11
+05077,"Cascapédia/Saint-Jules",11
+05902,"Rivière-Bonaventure",11
+06005,Maria,11
+06013,Carleton-sur-Mer,11
+06020,Nouvelle,11
+06025,Escuminac,11
+06030,"Pointe-à-la-Croix",11
+06035,Ristigouche-Partie-Sud-Est,11
+06040,"Saint-André-de-Restigouche",11
+06045,"Matapédia",11
+06050,"Saint-Alexis-de-Matapédia",11
+06055,"Saint-François-d'Assise",11
+06060,"L'Ascension-de-Patapédia",11
+07005,Sainte-Marguerite-Marie,01
+07010,Sainte-Florence,01
+07018,Causapscal,01
+07025,Albertville,01
+07030,"Saint-Léon-le-Grand",01
+07035,"Saint-Zénon-du-Lac-Humqui",01
+07040,"Sainte-Irène",01
+07047,Amqui,01
+07057,Lac-au-Saumon,01
+07065,Saint-Alexandre-des-Lacs,01
+07070,Saint-Tharcisius,01
+07075,Saint-Vianney,01
+07080,Val-Brillant,01
+07085,Sayabec,01
+07090,"Saint-Cléophas",01
+07095,"Saint-Moïse",01
+07100,"Saint-Noël",01
+07105,Saint-Damase,01
+07908,Lac-Casault,01
+07999,"Territoires Autres / Other Territories",07
+08005,"Les Méchins",01
+08010,Saint-Jean-de-Cherbourg,01
+08015,Grosses-Roches,01
+08023,"Sainte-Félicité",01
+08030,Saint-Adelme,01
+08035,"Saint-René-de-Matane",01
+08040,Sainte-Paule,01
+08053,Matane,01
+08065,"Saint-Léandre",01
+08073,Saint-Ulric,01
+08080,Baie-des-Sables,01
+08902,"Rivière-Bonjour",01
+08999,"Territoires Autres / Other Territories",08
+09005,"La Rédemption",01
+09010,Saint-Charles-Garnier,01
+09015,"Les Hauteurs",01
+09020,"Sainte-Jeanne-d'Arc",01
+09025,Saint-Gabriel-de-Rimouski,01
+09030,Saint-Donat,01
+09035,"Sainte-Angèle-de-Mérici",01
+09040,Padoue,01
+09050,"Métis-sur-Mer",01
+09055,"Saint-Octave-de-Métis",01
+09060,"Grand-Métis",01
+09065,Price,01
+09070,Saint-Joseph-de-Lepage,01
+09077,Mont-Joli,01
+09085,Sainte-Flavie,01
+09092,Sainte-Luce,01
+09902,Lac-des-Eaux-Mortes,01
+09999,"Territoires Autres / Other Territories",09
+10005,Esprit-Saint,01
+10010,"La Trinité-des-Monts",01
+10015,Saint-Narcisse-de-Rimouski,01
+10025,Saint-Marcellin,01
+10030,Saint-Anaclet-de-Lessard,01
+10043,Rimouski,01
+10060,"Saint-Valérien",01
+10070,Saint-Fabien,01
+10075,"Saint-Eugène-de-Ladrière",01
+10902,Lac-Huron,01
+10999,"Territoires Autres / Other Territories",10
+11005,"Saint-Clément",01
+11010,Saint-Jean-de-Dieu,01
+11015,Sainte-Rita,01
+11020,Saint-Guy,01
+11025,"Saint-Médard",01
+11030,"Sainte-Françoise",01
+11035,"Saint-Éloi",01
+11040,Trois-Pistoles,01
+11045,Notre-Dame-des-Neiges,01
+11050,Saint-Mathieu-de-Rioux,01
+11055,Saint-Simon-de-Rimouski,01
+11999,"Territoires Autres / Other Territories",11
+12005,Saint-Cyprien,01
+12010,"Saint-Hubert-de-Rivière-du-Loup",01
+12015,Saint-Antonin,01
+12020,Saint-Modeste,01
+12025,"Saint-François-Xavier-de-Viger",01
+12030,"Saint-Épiphane",01
+12035,Saint-Paul-de-la-Croix,01
+12043,"L'Isle-Verte",01
+12045,Notre-Dame-des-Sept-Douleurs,01
+12065,"Saint-Arsène",01
+12072,"Rivière-du-Loup",01
+12080,Notre-Dame-du-Portage,01
+12804,Cacouna,01
+13005,"Dégelis",01
+13010,Saint-Jean-de-la-Lande,01
+13015,Packington,01
+13020,Saint-Marc-du-Lac-Long,01
+13025,"Rivière-Bleue",01
+13030,"Saint-Eusèbe",01
+13040,Saint-Juste-du-Lac,01
+13045,Auclair,01
+13050,Lejeune,01
+13055,Biencourt,01
+13060,Lac-des-Aigles,01
+13065,Saint-Michel-du-Squatec,01
+13070,"Témiscouata-sur-le-Lac",01
+13075,Saint-Pierre-de-Lamy,01
+13080,"Saint-Louis-du-Ha! Ha!",01
+13085,"Saint-Elzéar-de-Témiscouata",01
+13090,"Saint-Honoré-de-Témiscouata",01
+13095,"Pohénégamook",01
+13100,Saint-Athanase,01
+14005,Mont-Carmel,01
+14010,Saint-Bruno-de-Kamouraska,01
+14018,Saint-Pascal,01
+14025,"Sainte-Hélène-de-Kamouraska",01
+14030,Saint-Joseph-de-Kamouraska,01
+14035,Saint-Alexandre-de-Kamouraska,01
+14040,"Saint-André-de-Kamouraska",01
+14045,Saint-Germain-de-Kamouraska,01
+14050,Kamouraska,01
+14055,"Saint-Denis-De La Bouteillerie",01
+14060,"Saint-Philippe-de-Néri",01
+14065,"Rivière-Ouelle",01
+14070,"Saint-Pacôme",01
+14075,Saint-Gabriel-Lalemant,01
+14080,"Saint-Onésime-d'Ixworth",01
+14085,"La Pocatière",01
+14090,"Sainte-Anne-de-la-Pocatière",01
+14999,"Territoires Autres / Other Territories",14
+15005,"Saint-Irénée",03
+15013,"La Malbaie",03
+15025,Notre-Dame-des-Monts,03
+15030,"Saint-Aimé-des-Lacs",03
+15035,Clermont,03
+15058,"Saint-Siméon",03
+15065,Baie-Sainte-Catherine,03
+15902,"Mont-Élie",03
+15904,Sagard,03
+15999,"Territoires Autres / Other Territories",15
+16005,"Petite-Rivière-Saint-François",03
+16013,Baie-Saint-Paul,03
+16023,"L'Isle-aux-Coudres",03
+16048,"Les Éboulements",03
+16050,Saint-Hilarion,03
+16055,Saint-Urbain,03
+16902,Lac-Pikauba,03
+17005,Saint-Omer,12
+17010,Saint-Pamphile,12
+17015,Saint-Adalbert,12
+17020,Saint-Marcel,12
+17025,"Sainte-Félicité",12
+17030,"Sainte-Perpétue",12
+17035,Tourville,12
+17040,"Saint-Damase-de-L'Islet",12
+17045,Saint-Cyrille-de-Lessard,12
+17055,Saint-Aubert,12
+17060,Sainte-Louise,12
+17065,Saint-Roch-des-Aulnaies,12
+17070,Saint-Jean-Port-Joli,12
+17078,"L'Islet",12
+18005,"Saint-Just-de-Bretenières",12
+18010,"Lac-Frontière",12
+18015,Saint-Fabien-de-Panet,12
+18020,Sainte-Lucie-de-Beauregard,12
+18025,Sainte-Apolline-de-Patton,12
+18030,Saint-Paul-de-Montminy,12
+18035,"Sainte-Euphémie-sur-Rivière-du-Sud",12
+18040,Notre-Dame-du-Rosaire,12
+18045,Cap-Saint-Ignace,12
+18050,Montmagny,12
+18055,"Saint-Pierre-de-la-Rivière-du-Sud",12
+18060,"Saint-François-de-la-Rivière-du-Sud",12
+18065,Berthier-sur-Mer,12
+18070,"Saint-Antoine-de-l'Isle-aux-Grues",12
+19005,"Saint-Philémon",12
+19010,Notre-Dame-Auxiliatrice-de-Buckland,12
+19015,Saint-Nazaire-de-Dorchester,12
+19020,"Saint-Léon-de-Standon",12
+19025,Saint-Malachie,12
+19030,Saint-Damien-de-Buckland,12
+19037,Armagh,12
+19045,"Saint-Nérée-de-Bellechasse",12
+19050,Saint-Lazare-de-Bellechasse,12
+19055,Sainte-Claire,12
+19062,Saint-Anselme,12
+19070,Honfleur,12
+19075,Saint-Gervais,12
+19082,"Saint-Raphaël",12
+19090,"La Durantaye",12
+19097,Saint-Charles-de-Bellechasse,12
+19105,Beaumont,12
+19110,Saint-Michel-de-Bellechasse,12
+19117,Saint-Vallier,12
+20005,"Saint-François-de-l'Île-d'Orléans",03
+20010,"Sainte-Famille-de-l’Île-d’Orléans",03
+20015,"Saint-Jean-de-l'Île-d'Orléans",03
+20020,"Saint-Laurent-de-l'Île-d'Orléans",03
+20025,"Saint-Pierre-de-l'Île-d'Orléans",03
+20030,"Sainte-Pétronille",03
+21005,Saint-Tite-des-Caps,03
+21010,"Saint-Ferréol-les-Neiges",03
+21015,Saint-Louis-de-Gonzague-du-Cap-Tourmente,03
+21020,Saint-Joachim,03
+21025,"Beaupré",03
+21030,"Sainte-Anne-de-Beaupré",03
+21035,"Château-Richer",03
+21040,"L'Ange-Gardien",03
+21045,Boischatel,03
+21902,Sault-au-Cochon,03
+22005,Sainte-Catherine-de-la-Jacques-Cartier,03
+22010,Fossambault-sur-le-Lac,03
+22015,Lac-Saint-Joseph,03
+22020,Shannon,03
+22025,Saint-Gabriel-de-Valcartier,03
+22030,Lac-Delage,03
+22035,Stoneham-et-Tewkesbury,03
+22040,Lac-Beauport,03
+22045,Sainte-Brigitte-de-Laval,03
+22902,Lac-Croche,03
+23005,"Québec (Beauport)",03
+23015,Notre-Dame-des-Anges,03
+23027,"Québec (La Cité-Limoilou)",03
+23028,"Québec (Les Rivières)",03
+23029,"Québec (Sainte-Foy/Sillery/Cap-Rouge)",03
+23030,"Québec (Charlesbourg )",03
+23031,"Québec (La Haute-Saint-Charles)",03
+23055,"L'Ancienne-Lorette",03
+23070,Saint-Augustin-de-Desmaures,03
+23802,Wendake,03
+24005,Saint-Henri,12
+25005,Saint-Lambert-de-Lauzon,12
+25214,"Lévis (Les Chutes-de-la-Chaudière-Est)",12
+25215,"Lévis (Les Chutes-de-la-Chaudière-Ouest)",12
+25216,"Lévis (Desjardins)",12
+26005,Frampton,12
+26010,Saints-Anges,12
+26015,"Vallée-Jonction",12
+26022,"Saint-Elzéar",12
+26030,Sainte-Marie,12
+26035,Sainte-Marguerite,12
+26040,"Sainte-Hénédine",12
+26048,Scott,12
+26055,Saint-Bernard,12
+26063,Saint-Isidore,12
+27008,Saint-Victor,12
+27015,Saint-Alfred,12
+27028,Beauceville,12
+27035,Saint-Odilon-de-Cranbourne,12
+27043,Saint-Joseph-de-Beauce,12
+27050,"Saint-Joseph-des-Érables",12
+27055,Saint-Jules,12
+27060,Tring-Jonction,12
+27065,"Saint-Frédéric",12
+27070,"Saint-Séverin",12
+28005,Saint-Zacharie,12
+28015,"Sainte-Aurélie",12
+28020,Saint-Prosper,12
+28025,Saint-Benjamin,12
+28030,Sainte-Rose-de-Watford,12
+28035,Saint-Louis-de-Gonzague,12
+28040,Saint-Cyprien,12
+28045,Sainte-Justine,12
+28053,Lac-Etchemin,12
+28060,Saint-Luc-de-Bellechasse,12
+28065,Sainte-Sabine,12
+28070,Saint-Camille-de-Lellis,12
+28075,Saint-Magloire,12
+29005,"Saint-Théophile",12
+29010,"Saint-Gédéon-de-Beauce",12
+29020,Saint-Hilaire-de-Dorset,12
+29025,"Saint-Évariste-de-Forsyth",12
+29030,"La Guadeloupe",12
+29038,"Saint-Honoré-de-Shenley",12
+29045,Saint-Martin,12
+29050,"Saint-René",12
+29057,"Saint-Côme/Linière",12
+29065,Saint-Philibert,12
+29075,Saint-Georges,12
+29095,Lac-Poulin,12
+29100,"Saint-Benoît-Labre",12
+29112,"Saint-Éphrem-de-Beauce",12
+29120,Notre-Dame-des-Pins,12
+29125,Saint-Simon-les-Mines,12
+30005,Saint-Augustin-de-Woburn,05
+30010,Notre-Dame-des-Bois,05
+30015,Val-Racine,05
+30020,Piopolis,05
+30025,Frontenac,05
+30030,"Lac-Mégantic",05
+30035,Marston,05
+30040,Milan,05
+30045,Nantes,05
+30050,"Sainte-Cécile-de-Whitton",05
+30055,Audet,05
+30070,Saint-Robert-Bellarmin,05
+30072,Saint-Ludger,05
+30080,Lac-Drolet,05
+30085,"Saint-Sébastien",05
+30090,Courcelles,05
+30095,Lambton,05
+30100,Saint-Romain,05
+30105,Stornoway,05
+30110,Stratford,05
+31008,Beaulac-Garthby,12
+31015,"Disraeli - Ville",12
+31020,"Disraeli - Paroisse",12
+31025,Saint-Jacques-le-Majeur-de-Wolfestown,12
+31030,Saint-Fortunat,12
+31035,Saint-Julien,12
+31040,Irlande,12
+31045,Saint-Joseph-de-Coleraine,12
+31050,"Sainte-Praxède",12
+31056,Adstock,12
+31060,Sainte-Clotilde-de-Beauce,12
+31087,"Thetford Mines",12
+31095,"Saint-Adrien-d'Irlande",12
+31100,"Saint-Jean-de-Brébeuf",12
+31105,"Kinnear's Mills",12
+31122,"East Broughton",12
+31130,"Sacré-Coeur-de-Jésus",12
+31135,Saint-Pierre-de-Broughton,12
+31140,Saint-Jacques-de-Leeds,12
+32013,Saint-Ferdinand,17
+32023,"Sainte-Sophie-d'Halifax",17
+32033,Princeville,17
+32040,"Plessisville - Ville",17
+32045,"Plessisville - Paroisse",17
+32050,Saint-Pierre-Baptiste,17
+32058,Inverness,17
+32065,Lyster,17
+32072,Laurierville,17
+32080,Notre-Dame-de-Lourdes,17
+32085,Villeroy,17
+33007,Saint-Sylvestre,12
+33017,"Sainte-Agathe-de-Lotbinière",12
+33025,Saint-Patrice-de-Beaurivage,12
+33030,Saint-Narcisse-de-Beaurivage,12
+33035,Saint-Gilles,12
+33040,Dosquet,12
+33045,Saint-Agapit,12
+33052,Saint-Flavien,12
+33060,Laurier-Station,12
+33065,Saint-Janvier-de-Joly,12
+33070,Val-Alain,12
+33080,"Saint-Édouard-de-Lotbinière",12
+33085,"Notre-Dame-du-Sacré-Coeur-d'Issoudun",12
+33090,Saint-Apollinaire,12
+33095,Saint-Antoine-de-Tilly,12
+33102,Sainte-Croix,12
+33115,"Lotbinière",12
+33123,Leclercville,12
+34007,Neuville,03
+34017,Pont-Rouge,03
+34025,Donnacona,03
+34030,"Cap-Santé",03
+34038,Saint-Basile,03
+34050,Portneuf,03
+34058,Deschambault-Grondines,03
+34060,Saint-Gilbert,03
+34065,"Saint-Marc-des-Carrières",03
+34078,Saint-Casimir,03
+34085,Saint-Thuribe,03
+34090,Saint-Ubalde,03
+34097,Saint-Alban,03
+34105,"Sainte-Christine-d'Auvergne",03
+34115,"Saint-Léonard-de-Portneuf",03
+34120,Lac-Sergent,03
+34128,Saint-Raymond,03
+34135,"Rivière-à-Pierre",03
+34902,Lac-Blanc,03
+34904,Linton,03
+35005,Notre-Dame-de-Montauban,04
+35010,Lac-aux-Sables,04
+35015,Saint-Adelphe,04
+35020,"Saint-Séverin",04
+35027,Saint-Tite,04
+35035,"Hérouxville",04
+35040,Grandes-Piles,04
+35045,"Saint-Roch-de-Mékinac",04
+35050,"Sainte-Thècle",04
+35055,Trois-Rives,04
+35902,Lac-Masketsi,04
+35904,Lac-Normand,04
+35906,"Rivière-de-la-Savane",04
+36005,Charette,04
+36010,"Saint-Élie-de-Caxton",04
+36015,Saint-Mathieu-du-Parc,04
+36020,Saint-Boniface,04
+36033,Shawinigan,04
+36040,Notre-Dame-du-Mont-Carmel,04
+37005,"Sainte-Anne-de-la-Pérade",04
+37010,Saint-Prosper-de-Champlain,04
+37015,Saint-Stanislas,04
+37020,"Sainte-Geneviève-de-Batiscan",04
+37025,Batiscan,04
+37030,Champlain,04
+37035,Saint-Luc-de-Vincennes,04
+37040,Saint-Narcisse,04
+37045,Saint-Maurice,04
+37067,"Trois-Rivières",04
+37080,"Saint-Étienne-des-Grès",04
+38005,"Saint-Sylvère",17
+38010,"Bécancour",17
+38015,Sainte-Marie-de-Blandford,17
+38020,Lemieux,17
+38028,Manseau,17
+38035,"Sainte-Françoise",17
+38040,"Sainte-Sophie-de-Lévrard",17
+38047,Fortierville,17
+38055,Parisville,17
+38060,"Sainte-Cécile-de-Lévrard",17
+38065,Saint-Pierre-les-Becquets,17
+38070,Deschaillons-sur-Saint-Laurent,17
+38802,"Wôlinak",17
+39005,Saints-Martyrs-Canadiens,17
+39010,Ham-Nord,17
+39015,Notre-Dame-de-Ham,17
+39020,"Saint-Rémi-de-Tingwick",17
+39025,Tingwick,17
+39030,Chesterville,17
+39035,"Sainte-Hélène-de-Chester",17
+39042,"Saint-Norbert-d'Arthabaska",17
+39060,"Saint-Christophe-d'Arthabaska",17
+39062,Victoriaville,17
+39077,Warwick,17
+39085,Saint-Albert,17
+39090,"Sainte-Élizabeth-de-Warwick",17
+39097,"Kingsey Falls",17
+39105,"Sainte-Séraphine",17
+39117,Sainte-Clotilde-de-Horton,17
+39130,Saint-Samuel,17
+39135,"Saint-Valère",17
+39145,Saint-Rosaire,17
+39155,Daveluyville,17
+39165,"Maddington Falls",17
+39170,Saint-Louis-de-Blandford,17
+40005,Ham-Sud,05
+40010,Saint-Adrien,05
+40017,Wotton,05
+40025,Saint-Camille,05
+40032,Saint-Georges-de-Windsor,05
+40043,Val-des-Sources,05
+40047,Danville,05
+41012,Saint-Isidore-de-Clifton,05
+41020,Chartierville,05
+41027,"La Patrie",05
+41035,Newport,05
+41042,Cookshire-Eaton,05
+41055,"Ascot Corner",05
+41060,"East Angus",05
+41065,Westbury,05
+41070,Bury,05
+41075,Hampden,05
+41080,Scotstown,05
+41085,Lingwick,05
+41098,Weedon,05
+41117,Dudswell,05
+42005,Stoke,05
+42020,"Saint-François-Xavier-de-Brompton",05
+42025,Saint-Denis-de-Brompton,05
+42032,Racine,05
+42040,Bonsecours,05
+42045,Lawrenceville,05
+42050,Sainte-Anne-de-la-Rochelle,05
+42055,"Valcourt - Ville",05
+42060,"Valcourt - Canton",05
+42065,Maricourt,05
+42070,Kingsbury,05
+42075,Melbourne,05
+42078,Ulverton,05
+42088,Windsor,05
+42095,Val-Joli,05
+42098,Richmond,05
+42100,Saint-Claude,05
+42110,Cleveland,05
+43005,Waterville,05
+43010,"Sherbrooke (Lennoxville)",05
+43020,"Sherbrooke (Fleurimont)",05
+43025,"Sherbrooke (Les Nations)",05
+43030,"Sherbrooke (Brompton/Rock Forest/Saint-Élie/Deauville)",05
+44003,Saint-Malo,05
+44005,Saint-Venant-de-Paquette,05
+44010,"East Hereford",05
+44015,"Saint-Herménégilde",05
+44023,Dixville,05
+44037,Coaticook,05
+44045,Barnston-Ouest,05
+44050,Stanstead-Est,05
+44055,Sainte-Edwidge-de-Clifton,05
+44060,Martinville,05
+44071,Compton,05
+45008,"Stanstead - Ville",05
+45020,Ogden,05
+45025,"Stanstead - Canton",05
+45030,Potton,05
+45035,"Ayer's Cliff",05
+45043,"Hatley - Municipalité",05
+45050,"North Hatley",05
+45055,"Hatley - Canton",05
+45060,Sainte-Catherine-de-Hatley,05
+45072,Magog,05
+45080,"Saint-Benoît-du-Lac",05
+45085,Austin,05
+45093,Eastman,05
+45095,Bolton-Est,05
+45100,"Saint-Étienne-de-Bolton",05
+45105,Stukely-Sud,05
+45115,Orford,05
+46005,Abercorn,05
+46010,Frelighsburg,05
+46017,Saint-Armand,05
+46025,"Pike River",05
+46030,"Stanbridge Station",05
+46035,"Bedford - Ville",05
+46040,"Bedford - Canton",05
+46045,"Stanbridge East",05
+46050,Dunham,05
+46055,Sutton,05
+46065,Bolton-Ouest,05
+46070,Brome,05
+46075,Lac-Brome,05
+46080,Cowansville,05
+46085,"East Farnham",05
+46090,Brigham,05
+46095,Saint-Ignace-de-Stanbridge,05
+46100,Notre-Dame-de-Stanbridge,05
+46105,Sainte-Sabine,05
+46112,Farnham,05
+47005,Bromont,05
+47010,Saint-Alphonse-de-Granby,05
+47017,Granby,05
+47025,Waterloo,05
+47030,Warden,05
+47035,Shefford,05
+47040,Saint-Joachim-de-Shefford,05
+47047,"Roxton Pond",05
+47055,"Sainte-Cécile-de-Milton",05
+48005,"Béthanie",16
+48010,"Roxton Falls",16
+48015,Roxton,16
+48020,Sainte-Christine,16
+48028,"Acton Vale",16
+48038,Upton,16
+48045,"Saint-Théodore-d'Acton",16
+48050,"Saint-Nazaire-d'Acton",16
+49005,"Saint-Félix-de-Kingsey",17
+49015,Durham-Sud,17
+49020,Lefebvre,17
+49025,"L'Avenir",17
+49030,Saint-Lucien,17
+49040,Wickham,17
+49048,Saint-Germain-de-Grantham,17
+49057,Drummondville,17
+49070,Saint-Cyrille-de-Wendover,17
+49075,"Notre-Dame-du-Bon-Conseil - Village",17
+49080,"Notre-Dame-du-Bon-Conseil - Paroisse",17
+49085,Sainte-Brigitte-des-Saults,17
+49095,Saint-Majorique-de-Grantham,17
+49100,Saint-Edmond-de-Grantham,17
+49105,"Saint-Eugène",17
+49113,Saint-Guillaume,17
+49125,Saint-Bonaventure,17
+49130,Saint-Pie-de-Guire,17
+500000,"Autres provinces / Other provinces",50
+50005,Sainte-Eulalie,17
+50013,Aston-Jonction,17
+50023,Saint-Wenceslas,17
+50030,"Saint-Célestin - Village",17
+50035,"Saint-Célestin - Municipalité",17
+50042,"Saint-Léonard-d'Aston",17
+50050,"Sainte-Perpétue",17
+50057,Sainte-Monique,17
+50065,Grand-Saint-Esprit,17
+50072,Nicolet,17
+50085,"La Visitation-de-Yamaska",17
+50090,"Saint-Zéphirin-de-Courval",17
+50095,"Saint-Elphège",17
+50100,Baie-du-Febvre,17
+50113,Pierreville,17
+50128,"Saint-François-du-Lac",17
+50802,Odanak,17
+51008,"Maskinongé",04
+51015,Louiseville,04
+51020,Yamachiche,04
+51025,"Saint-Barnabé",04
+51030,"Saint-Sévère",04
+51035,"Saint-Léon-le-Grand",04
+51040,Sainte-Ursule,04
+51045,Saint-Justin,04
+51050,"Saint-Édouard-de-Maskinongé",04
+51055,"Sainte-Angèle-de-Prémont",04
+51060,Saint-Paulin,04
+51065,Saint-Alexis-des-Monts,04
+52007,Lavaltrie,14
+52017,Lanoraie,14
+52030,"Sainte-Élisabeth",14
+52035,Berthierville,14
+52040,"Sainte-Geneviève-de-Berthier",14
+52045,Saint-Ignace-de-Loyola,14
+52050,"La Visitation-de-l'Île-Dupas",14
+52055,"Saint-Barthélemy",14
+52062,Saint-Cuthbert,14
+52070,Saint-Norbert,14
+52075,"Saint-Cléophas-de-Brandon",14
+52080,Saint-Gabriel,14
+52085,Saint-Gabriel-de-Brandon,14
+52090,Saint-Didace,14
+52095,Mandeville,14
+53005,Saint-David,16
+53010,Massueville,16
+53015,"Saint-Aimé",16
+53020,Saint-Robert,16
+53025,Sainte-Victoire-de-Sorel,16
+53032,Saint-Ours,16
+53040,Saint-Roch-de-Richelieu,16
+53050,Saint-Joseph-de-Sorel,16
+53052,Sorel-Tracy,16
+53065,Sainte-Anne-de-Sorel,16
+53072,Yamaska,16
+53085,"Saint-Gérard-Majella",16
+54005,Saint-Pie,16
+54017,Saint-Damase,16
+54025,Sainte-Madeleine,16
+54030,Sainte-Marie-Madeleine,16
+54035,"La Présentation",16
+54045,Saint-Hyacinthe,16
+54060,Saint-Dominique,16
+54065,"Saint-Valérien-de-Milton",16
+54072,Saint-Liboire,16
+54090,Saint-Simon,16
+54095,"Sainte-Hélène-de-Bagot",16
+54100,Saint-Hugues,16
+54105,"Saint-Barnabé-Sud",16
+54110,Saint-Jude,16
+54115,Saint-Bernard-de-Michaudville,16
+54120,Saint-Louis,16
+54125,Saint-Marcel-de-Richelieu,16
+55008,Ange-Gardien,16
+55015,"Saint-Paul-d'Abbotsford",16
+55023,"Saint-Césaire",16
+55030,"Sainte-Angèle-de-Monnoir",16
+55037,Rougemont,16
+55048,Marieville,16
+55057,Richelieu,16
+55065,Saint-Mathias-sur-Richelieu,16
+56005,"Venise-en-Québec",16
+56010,Saint-Georges-de-Clarenceville,16
+56015,Noyan,16
+56023,Lacolle,16
+56030,Saint-Valentin,16
+56035,"Saint-Paul-de-l'Île-aux-Noix",16
+56042,Henryville,16
+56050,"Saint-Sébastien",16
+56055,Saint-Alexandre,16
+56060,Sainte-Anne-de-Sabrevois,16
+56065,Saint-Blaise-sur-Richelieu,16
+56083,Saint-Jean-sur-Richelieu,16
+56097,"Mont-Saint-Grégoire",16
+56105,"Sainte-Brigide-d'Iberville",16
+57005,Chambly,16
+57010,Carignan,16
+57015,Saint-Bruno-de-Montarville,16
+57020,Saint-Basile-le-Grand,16
+57025,McMasterville,16
+57030,"Otterburn Park",16
+57033,Saint-Jean-Baptiste,16
+57035,Mont-Saint-Hilaire,16
+57040,Beloeil,16
+57045,Saint-Mathieu-de-Beloeil,16
+57050,Saint-Marc-sur-Richelieu,16
+57057,Saint-Charles-sur-Richelieu,16
+57068,Saint-Denis-sur-Richelieu,16
+57075,Saint-Antoine-sur-Richelieu,16
+58005,Brossard,16
+58010,Saint-Lambert,16
+58015,"Longueuil (Greenfield Park)",16
+58020,"Longueuil (Saint-Hubert)",16
+58227,"Longueuil (Le Vieux-Longueuil)",16
+59005,Boucherville,16
+59010,Sainte-Julie,16
+59015,Saint-Amable,16
+59020,Varennes,16
+59025,"Verchères",16
+59030,"Calixa-Lavallée",16
+59035,Contrecoeur,16
+60005,Charlemagne,14
+60010,"Repentigny (Le Gardeur)",14
+60013,"Repentigny (Repentigny)",14
+60020,Saint-Sulpice,14
+60028,"L'Assomption",14
+60035,"L'Épiphanie",14
+61005,Saint-Paul,14
+61013,Crabtree,14
+61020,Saint-Pierre,14
+61025,Joliette,14
+61027,Saint-Thomas,14
+61030,Notre-Dame-des-Prairies,14
+61035,"Saint-Charles-Borromée",14
+61040,Saint-Ambroise-de-Kildare,14
+61045,Notre-Dame-de-Lourdes,14
+61050,"Sainte-Mélanie",14
+62007,"Saint-Félix-de-Valois",14
+62015,Saint-Jean-de-Matha,14
+62020,"Sainte-Béatrix",14
+62025,Saint-Alphonse-Rodriguez,14
+62030,Sainte-Marcelline-de-Kildare,14
+62037,Rawdon,14
+62047,Chertsey,14
+62053,Entrelacs,14
+62055,Notre-Dame-de-la-Merci,14
+62060,Saint-Donat,14
+62065,"Saint-Côme",14
+62070,"Sainte-Émélie-de-l'Énergie",14
+62075,Saint-Damien,14
+62080,"Saint-Zénon",14
+62085,Saint-Michel-des-Saints,14
+62904,Lac-Devenyns,14
+62906,Baie-de-la-Bouteille,14
+62908,Lac-Matawin,14
+62912,Saint-Guillaume-Nord,14
+62918,Baie-Obaoca,14
+62919,Lac-Cabasta,14
+63005,"Sainte-Marie-Salomé",14
+63013,Saint-Jacques,14
+63020,Saint-Alexis,14
+63030,Saint-Esprit,14
+63035,"Saint-Roch-de-l'Achigan",14
+63040,Saint-Roch-Ouest,14
+63048,Saint-Lin/Laurentides,14
+63055,Saint-Calixte,14
+63060,Sainte-Julienne,14
+63065,Saint-Liguori,14
+64005,"Terrebonne (Lachenaie)",14
+64008,"Terrebonne (Terrebonne)",14
+64015,Mascouche,14
+64020,"Terrebonne (La Plaine)",14
+65101,"Laval (Laval-sur-le-Lac)",13
+65102,"Laval (Laval-Ouest)",13
+65103,"Laval (Sainte-Dorothée)",13
+65104,"Laval (Fabreville)",13
+65105,"Laval (Chomedey)",13
+65106,"Laval (Sainte-Rose)",13
+65107,"Laval (Laval-des-Rapides)",13
+65108,"Laval (Auteuil)",13
+65109,"Laval (Vimont)",13
+65110,"Laval (Pont-Viau)",13
+65111,"Laval (Duvernay)",13
+65112,"Laval (Saint-Vincent-de-Paul)",13
+65113,"Laval (Saint-François)",13
+66005,"Montréal-Est",06
+66010,"Montréal (Anjou)",06
+66015,"Montréal (Saint-Léonard)",06
+66020,"Montréal (Montréal-Nord)",06
+66030,Westmount,06
+66040,"Montréal (LaSalle)",06
+66045,"Montréal-Ouest",06
+66055,"Côte-Saint-Luc",06
+66057,"Montréal (Lachine)",06
+66060,Hampstead,06
+66065,"Montréal (Outremont)",06
+66070,Mont-Royal,06
+66075,"Montréal (Saint-Laurent)",06
+66085,Dorval,06
+66092,"L'Île-Dorval",06
+66095,Pointe-Claire,06
+66100,Kirkland,06
+66105,Beaconsfield,06
+66110,"Baie-d'Urfé",06
+66115,Sainte-Anne-de-Bellevue,06
+66125,Senneville,06
+66130,"Montréal (Pierrefonds-Roxboro)",06
+66140,"Dollard-Des Ormeaux",06
+66150,"Montréal (L'Île-Bizard/Sainte-Geneviève)",06
+66501,"Montréal (Côte-des-Neiges/Notre-Dame-de-Grâce)",06
+66505,"Montréal (Le Sud-Ouest)",06
+66506,"Montréal (Ahuntsic-Cartierville)",06
+66507,"Montréal (Villeray/Saint-Michel/Parc-Extension)",06
+66508,"Montréal (Le Plateau-Mont-Royal)",06
+66509,"Montréal (Ville-Marie)",06
+66511,"Montréal (Rosemont/La Petite-Patrie)",06
+66513,"Montréal (Mercier/Hochelaga-Maisonneuve)",06
+66514,"Montréal (Rivière-des-Prairies/Pointe-aux-Trembles)",06
+66516,"Montréal (Verdun/Île-des-Sœurs)",06
+67005,Saint-Mathieu,16
+67010,Saint-Philippe,16
+67015,"La Prairie",16
+67020,Candiac,16
+67025,Delson,16
+67030,Sainte-Catherine,16
+67035,Saint-Constant,16
+67040,Saint-Isidore,16
+67045,Mercier,16
+67050,"Châteauguay",16
+67055,"Léry",16
+67802,Kahnawake,16
+68005,Saint-Bernard-de-Lacolle,16
+68010,"Hemmingford - Village",16
+68015,"Hemmingford - Canton",16
+68020,Sainte-Clotilde,16
+68025,Saint-Patrice-de-Sherrington,16
+68030,Napierville,16
+68035,Saint-Cyprien-de-Napierville,16
+68040,Saint-Jacques-le-Mineur,16
+68045,"Saint-Édouard",16
+68050,Saint-Michel,16
+68055,"Saint-Rémi",16
+69005,Havelock,16
+69010,Franklin,16
+69017,Saint-Chrysostome,16
+69025,Howick,16
+69030,"Très-Saint-Sacrement",16
+69037,Ormstown,16
+69045,Hinchinbrooke,16
+69050,Elgin,16
+69055,Huntingdon,16
+69060,Godmanchester,16
+69065,Sainte-Barbe,16
+69070,Saint-Anicet,16
+69075,Dundee,16
+69802,Akwesasne,16
+700000,"Etats-Unis / USA",70
+70005,Saint-Urbain-Premier,16
+70012,Sainte-Martine,16
+70022,Beauharnois,16
+70030,"Saint-Étienne-de-Beauharnois",16
+70035,Saint-Louis-de-Gonzague,16
+70040,Saint-Stanislas-de-Kostka,16
+70052,Salaberry-de-Valleyfield,16
+71005,"Rivière-Beaudette",16
+71015,"Saint-Télesphore",16
+71020,Saint-Polycarpe,16
+71025,Saint-Zotique,16
+71033,"Les Coteaux",16
+71040,Coteau-du-Lac,16
+71045,Saint-Clet,16
+71050,"Les Cèdres",16
+71055,Pointe-des-Cascades,16
+71060,"L'Île-Perrot",16
+71065,"Notre-Dame-de-l'Île-Perrot",16
+71070,Pincourt,16
+71075,Terrasse-Vaudreuil,16
+71083,Vaudreuil-Dorion,16
+71090,Vaudreuil-sur-le-Lac,16
+71095,"L'Île-Cadieux",16
+71100,Hudson,16
+71105,Saint-Lazare,16
+71110,Sainte-Marthe,16
+71115,Sainte-Justine-de-Newton,16
+71125,"Très-Saint-Rédempteur",16
+71133,Rigaud,16
+71140,Pointe-Fortune,16
+72005,Saint-Eustache,15
+72010,Deux-Montagnes,15
+72015,Sainte-Marthe-sur-le-Lac,15
+72020,Pointe-Calumet,15
+72025,Saint-Joseph-du-Lac,15
+72032,Oka,15
+72043,Saint-Placide,15
+73005,Boisbriand,15
+73010,"Sainte-Thérèse",15
+73015,Blainville,15
+73020,"Rosemère",15
+73025,Lorraine,15
+73030,Bois-des-Filion,15
+73035,Sainte-Anne-des-Plaines,15
+74005,Mirabel,15
+75005,Saint-Colomban,15
+75017,"Saint-Jérôme",15
+75028,Sainte-Sophie,15
+75040,"Prévost",15
+75045,Saint-Hippolyte,15
+76008,"Saint-André-d'Argenteuil",15
+76020,Lachute,15
+76025,Gore,15
+76030,Mille-Isles,15
+76035,Wentworth,15
+76043,Brownsburg-Chatham,15
+76052,Grenville-sur-la-Rouge,15
+76055,Grenville,15
+76065,Harrington,15
+77010,"Estérel",15
+77015,Sainte-Marguerite-du-Lac-Masson,15
+77022,"Sainte-Adèle",15
+77030,Piedmont,15
+77035,Sainte-Anne-des-Lacs,15
+77040,Saint-Sauveur,15
+77050,Morin-Heights,15
+77055,"Lac-des-Seize-Îles",15
+77060,Wentworth-Nord,15
+77065,"Saint-Adolphe-d'Howard",15
+78005,Val-Morin,15
+78010,Val-David,15
+78015,Lantier,15
+78020,Sainte-Lucie-des-Laurentides,15
+78032,Sainte-Agathe-des-Monts,15
+78042,Ivry-sur-le-Lac,15
+78047,Mont-Blanc,15
+78050,Barkmere,15
+78055,Montcalm,15
+78060,Arundel,15
+78065,Huberdeau,15
+78070,Amherst,15
+78075,"Brébeuf",15
+78095,"Lac-Supérieur",15
+78100,Val-des-Lacs,15
+78102,Mont-Tremblant,15
+78115,"La Conception",15
+78120,Labelle,15
+78127,Lac-Tremblant-Nord,15
+78130,"La Minerve",15
+79005,Notre-Dame-du-Laus,15
+79010,Notre-Dame-de-Pontmain,15
+79015,Lac-du-Cerf,15
+79020,"Saint-Aimé-du-Lac-des-Îles",15
+79025,Kiamika,15
+79030,Nominingue,15
+79037,"Rivière-Rouge",15
+79045,"La Macaza",15
+79050,"L'Ascension",15
+79060,Lac-Saguay,15
+79065,Chute-Saint-Philippe,15
+79075,"Lac-des-Écorces",15
+79085,Mont-Laurier,15
+79097,Ferme-Neuve,15
+79105,Lac-Saint-Paul,15
+79110,Mont-Saint-Michel,15
+79115,Sainte-Anne-du-Lac,15
+79910,Lac-Bazinet,15
+79912,"Lac-De La Bidière",15
+79914,Lac-Oscar,15
+79922,Lac-Douaire,15
+79926,Lac-Marguerite,15
+800000,"Autres pays / Other countries",80
+80005,Fassett,07
+80010,Montebello,07
+80015,Notre-Dame-de-Bonsecours,07
+80020,Notre-Dame-de-la-Paix,07
+80027,"Saint-André-Avellin",07
+80037,Papineauville,07
+80045,Plaisance,07
+80050,Thurso,07
+80055,Lochaber,07
+80060,Lochaber-Partie-Ouest,07
+80065,Mayo,07
+80070,Saint-Sixte,07
+80078,Ripon,07
+80085,Mulgrave-et-Derry,07
+80090,Montpellier,07
+80095,Lac-Simon,07
+80103,"Chénéville",07
+80110,Namur,07
+80115,Boileau,07
+80125,"Saint-Émile-de-Suffolk",07
+80130,Lac-des-Plages,07
+80135,Duhamel,07
+80140,Val-des-Bois,07
+80145,Bowman,07
+81005,"Gatineau (Buckingham)",07
+81010,"Gatineau (Masson-Angers)",07
+81017,"Gatineau (Gatineau)",07
+81020,"Gatineau (Hull)",07
+81025,"Gatineau (Aylmer)",07
+82005,"L'Ange-Gardien",07
+82010,Notre-Dame-de-la-Salette,07
+82015,Val-des-Monts,07
+82020,Cantley,07
+82025,Chelsea,07
+82030,Pontiac,07
+82035,"La Pêche",07
+83005,Denholm,07
+83010,Low,07
+83015,Kazabazua,07
+83020,Lac-Sainte-Marie,07
+83032,Gracefield,07
+83040,Cayamant,07
+83045,"Blue Sea",07
+83050,Bouchette,07
+83055,"Sainte-Thérèse-de-la-Gatineau",07
+83060,Messines,07
+83065,Maniwaki,07
+83070,"Déléage",07
+83075,Egan-Sud,07
+83085,Bois-Franc,07
+83088,Montcerf-Lytton,07
+83090,Aumond,07
+83095,Grand-Remous,07
+83902,Lac-Pythonga,07
+83906,"Lac-Lenôtre",07
+83908,Lac-Moselle,07
+83912,"Dépôt-Échouani",07
+84005,Bristol,07
+84010,Shawville,07
+84015,Clarendon,07
+84020,Portage-du-Fort,07
+84025,Bryson,07
+84030,"Campbell's Bay",07
+84035,"L'Île-du-Grand-Calumet",07
+84040,Litchfield,07
+84045,Thorne,07
+84050,Alleyn-et-Cawood,07
+84055,"Otter Lake",07
+84060,Fort-Coulonge,07
+84065,Mansfield-et-Pontefract,07
+84070,Waltham,07
+84082,"L'Isle-aux-Allumettes",07
+84090,Chichester,07
+84095,Sheenboro,07
+84100,Rapides-des-Joachims,07
+84902,Lac-Nilgaut,07
+84926,Lalemant,02
+85005,"Témiscaming",08
+85010,Kipawa,08
+85015,"Saint-Édouard-de-Fabre",08
+85020,"Béarn",08
+85025,Ville-Marie,08
+85030,Duhamel-Ouest,08
+85037,Lorrainville,08
+85045,Saint-Bruno-de-Guigues,08
+85050,"Laverlochère-Angliers",08
+85055,"Fugèreville",08
+85060,Latulipe-et-Gaboury,08
+85065,Belleterre,08
+85070,Laforce,08
+85075,Moffet,08
+85085,"Saint-Eugène-de-Guigues",08
+85090,Notre-Dame-du-Nord,08
+85095,"Guérin",08
+85100,"Nédélec",08
+85105,"Rémigny",08
+85905,Laniel,08
+85907,"Les Lacs-du-Témiscamingue",08
+86042,Rouyn-Noranda,08
+87005,Duparquet,08
+87010,Rapide-Danseur,08
+87015,Roquemaure,08
+87020,Gallichan,08
+87025,Palmarolle,08
+87030,"Sainte-Germaine-Boulé",08
+87035,Poularies,08
+87042,Taschereau,08
+87050,Authier,08
+87058,Macamic,08
+87070,"Sainte-Hélène-de-Mancebourg",08
+87075,Clerval,08
+87080,"La Reine",08
+87085,Dupuy,08
+87090,"La Sarre",08
+87095,Chazel,08
+87100,Authier-Nord,08
+87105,Val-Saint-Gilles,08
+87110,Clermont,08
+87115,"Normétal",08
+87120,Saint-Lambert,08
+87904,"Rivière-Ojima",08
+88005,Champneuf,08
+88010,Rochebaucourt,08
+88015,"La Morandière",08
+88022,Barraute,08
+88030,"La Corne",08
+88035,Landrienne,08
+88040,Saint-Marc-de-Figuery,08
+88045,"La Motte",08
+88050,"Saint-Mathieu-d'Harricana",08
+88055,Amos,08
+88060,"Saint-Félix-de-Dalquier",08
+88065,Saint-Dominique-du-Rosaire,08
+88070,Berry,08
+88075,"Trécesson",08
+88080,Launay,08
+88085,Sainte-Gertrude-Manneville,08
+88090,Preissac,08
+88902,Lac-Despinassy,08
+88904,Lac-Chicobi,08
+89008,"Val-d'Or",08
+89010,"Rivière-Héva",08
+89015,Malartic,08
+89040,"Senneterre - Ville",08
+89045,"Senneterre - Paroisse",08
+89050,Belcourt,08
+90007,"La Tuque",04
+90015,"La Bostonnais",04
+90025,"Lac-Édouard",04
+90802,Wemotaci,04
+91005,Lac-Bouchette,02
+91010,"Saint-André-du-Lac-Saint-Jean",02
+91015,"Saint-François-de-Sales",02
+91020,Chambord,02
+91025,Roberval,02
+91030,Sainte-Hedwidge,02
+91035,Saint-Prime,02
+91042,"Saint-Félicien",02
+91050,"La Doré",02
+91802,Mashteuiatsh,02
+91902,Lac-Ashuapmushuan,02
+92005,Saint-Augustin,02
+92010,"Péribonka",02
+92015,"Sainte-Jeanne-d'Arc",02
+92022,Dolbeau-Mistassini,02
+92030,Albanel,02
+92040,Normandin,02
+92045,Saint-Thomas-Didyme,02
+92050,Saint-Edmond-les-Plaines,02
+92055,Girardville,02
+92060,Notre-Dame-de-Lorette,02
+92065,"Saint-Eugène-d'Argentenay",02
+92070,Saint-Stanislas,02
+92902,Passes-Dangereuses,02
+92904,"Rivière-Mistassini",02
+93005,Desbiens,02
+93012,"Métabetchouan/Lac-à-la-Croix",02
+93020,"Hébertville",02
+93025,"Hébertville-Station",02
+93030,Saint-Bruno,02
+93035,"Saint-Gédéon",02
+93042,Alma,02
+93045,Saint-Nazaire,02
+93055,Labrecque,02
+93060,Lamarche,02
+93065,"L'Ascension-de-Notre-Seigneur",02
+93070,Saint-Henri-de-Taillon,02
+93075,Sainte-Monique,02
+93080,Saint-Ludger-de-Milot,02
+93908,"Belle-Rivière",02
+94005,Petit-Saguenay,02
+94010,"L'Anse-Saint-Jean",02
+94015,"Rivière-Éternité",02
+94020,Ferland-et-Boilleau,02
+94025,"Saint-Félix-d'Otis",02
+94030,Sainte-Rose-du-Nord,02
+94035,Saint-Fulgence,02
+94040,"Saguenay (La Baie)",02
+94045,"Saguenay (Laterrière)",02
+94050,"Saguenay (Chicoutimi)",02
+94055,"Saguenay (Canton Tremblay)",02
+94060,"Saint-Honoré",02
+94065,"Saguenay (Shipshaw)",02
+94070,"Saguenay (Jonquière)",02
+94075,"Saguenay (Lac-Kénogami)",02
+94080,Larouche,02
+94085,Saint-Charles-de-Bourget,02
+94090,Saint-Ambroise,02
+94095,Saint-David-de-Falardeau,02
+94100,"Bégin",02
+94928,Lac-Ministuk,02
+94930,Mont-Valin,02
+95005,Tadoussac,09
+95010,"Sacré-Coeur",09
+95018,"Les Bergeronnes",09
+95025,"Les Escoumins",09
+95032,Longue-Rive,09
+95040,Portneuf-sur-Mer,09
+95045,Forestville,09
+95050,Colombier,09
+95902,Lac-au-Brochet,09
+96005,"Baie-Trinité",09
+96010,Godbout,09
+96015,Franquelin,09
+96020,Baie-Comeau,09
+96025,Pointe-Lebel,09
+96030,Pointe-aux-Outardes,09
+96035,Chute-aux-Outardes,09
+96040,Ragueneau,09
+96902,"Rivière-aux-Outardes",09
+97010,"Sept-Îles",09
+97020,Port-Cartier,09
+97035,Fermont,09
+97040,Schefferville,09
+97902,"Rivière-Nipissis",09
+97904,Lac-Walker,09
+97906,"Rivière-Mouchalagane",09
+98005,Blanc-Sablon,09
+98010,"Bonne-Espérance",09
+98012,Saint-Augustin,09
+98014,"Gros-Mécatina",09
+98015,"Côte-Nord-du-Golfe-du-Saint-Laurent",09
+98020,"L'Île-d'Anticosti",09
+98025,Natashquan,09
+98030,Aguanish,09
+98035,Baie-Johan-Beetz,09
+98040,Havre-Saint-Pierre,09
+98045,Longue-Pointe-de-Mingan,09
+98050,"Rivière-Saint-Jean",09
+98055,"Rivière-au-Tonnerre",09
+98904,"Lac-Jérôme",09
+98912,"Petit-Mécatina",09
+99005,"Lebel-sur-Quévillon",10
+99015,Matagami,10
+99020,Chapais,10
+99025,Chibougamau,10
+99060,"Eeyou Istchee Baie-James",10
+99061,"Eeyou Istchee Baie-James (Radisson)",10
+99062,"Eeyou Istchee Baie-James (Valcanton)",10
+99063,"Eeyou Istchee Baie-James (Villebois)",10
+99095,Kuujjuaq,10
+99902,"Rivière-Koksoak",10

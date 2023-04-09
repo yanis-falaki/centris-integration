@@ -1,0 +1,21 @@
+CODE,DESCRIPTION_FRANCAISE,DESCRIPTION_ANGLAISE
+01,Bas-Saint-Laurent,Bas-Saint-Laurent
+02,Saguenay/Lac-Saint-Jean,Saguenay/Lac-Saint-Jean
+03,Capitale-Nationale,Capitale-Nationale
+04,Mauricie,Mauricie
+05,Estrie,Estrie
+06,"Montréal","Montréal"
+07,Outaouais,Outaouais
+08,"Abitibi-Témiscamingue","Abitibi-Témiscamingue"
+09,"Côte-Nord","Côte-Nord"
+10,"Nord-du-Québec","Nord-du-Québec"
+11,"Gaspésie/Iles-de-la-Madeleine","Gaspésie/Iles-de-la-Madeleine"
+12,"Chaudière-Appalaches","Chaudière-Appalaches"
+13,Laval,Laval
+14,"Lanaudière","Lanaudière"
+15,Laurentides,Laurentides
+16,"Montérégie","Montérégie"
+17,"Centre-du-Québec","Centre-du-Québec"
+50,"Autres provinces","Other provinces"
+70,Etats-Unis,USA
+80,"Autres pays","Other countries"

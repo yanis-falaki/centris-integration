@@ -1,3 +1,4 @@
 databases
 venv
 .DS_STORE
+centris-integration-plugin/databases

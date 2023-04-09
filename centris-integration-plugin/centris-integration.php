@@ -7,6 +7,8 @@ Author: Yanis Falaki
 Author URI: https://webaradigital.com
 */
 
+include 'integration.php';
+
 function cenris_integration_add_menu_page() {
   add_menu_page(
     'Centris Integration',
@@ -40,6 +42,7 @@ function centris_integration_display_settings_page() {
     <h2>Last Updates:</h2>
   </section>
   <?php
+  
 }
 
 function save_user_input() {
