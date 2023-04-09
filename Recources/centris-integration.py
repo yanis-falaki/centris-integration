@@ -1,6 +1,5 @@
 import os
 import sqlite3
-import requests
 
 # This was originally made in python, but is now deprecated and was re-written in php in order for better compatibility with WordPress and the centris-integration plugin.
 
