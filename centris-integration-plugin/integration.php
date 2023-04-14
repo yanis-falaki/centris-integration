@@ -1,10 +1,26 @@
 <?php
+class InscriptionData {
+  public $title;
+  public $content;
+  public $price;
+  public $size;
+  public $land;
+  public $bedrooms;
+  public $bathrooms;
+  public $year;
+  public $postal;
+  public $address;
+  public $showCalculator;
+  public $lat;
+  public $long;
+  public $lat_long;
+}
+
 // For development purposes an absolute path in windows style notation must be used as the plugin is a symlink and LocalWP is using a windows based shell
 $path = "D:\Local Repo\local-sites\jb-staging\app\public\wp-load.php";
 //$path = "/mnt/d/Local Repo/local-sites/jb-staging/app/public/wp-load.php";
 
 // Load WordPress
-//define( 'SHORTINIT', true );
 require_once($path);
 
 $var_tables = [
@@ -56,6 +72,65 @@ function SetTables(&$var_tables, &$const_tables) {
 }
 
 
+function PropertyData($NO_INSCRIPTION){
+  global $var_tables;
+  $row = -1;
+  $property = new InscriptionData();
+
+  foreach ($var_tables["INSCRIPTIONS"] as $index => $record) {
+    if ($record["NO_INSCRIPTION"] == $NO_INSCRIPTION && $row = -1) $row = $index;
+    else if ($record["NO_INSCRIPTION"] == $NO_INSCRIPTION && $row != -1) echo "Duplicate of $NO_INSCRIPTION found in INSCRIPTIONS table";
+  }
+  if ($row == -1) "No entry for $NO_INSCRIPTION found while looping through PropertyData()";
+  $rowData = $var_tables["INSCRIPTIONS"][$row]
+
+  
+}
+
+
+function InsertProperty($NO_INSCRIPTION) 
+{
+  $property = new InscriptionData();
+
+  $post_data = [
+    'post_title' => '',
+    'post_content' => '',
+    'post_status' => 'publish',
+    'post_author' => 1,
+    'post_type' => 'property'
+  ];
+
+  $meta_data = [
+    'fave_property_price' => $property->price,
+    'fave_property_size' => $property->size,
+    'fave_property_size_prefix' => 'sqft',
+    'fave_property_land' => $property->land,
+    'fave_property_land_postfix' => 'sqft',
+    'fave_property_bedrooms' => $property->bedrooms,
+    'fave_property_bathrooms' => $property->bathrooms,
+    'fave_property_year' => $property->year,
+    'fave_property_id' => $NO_INSCRIPTION,
+    'fave_property_zip' => $property->postal,
+    'fave_additional_features_enable' => 'enable',
+    'fave_featured' => 1,
+    'fave_loggedintoview' => 0,
+    'fave_mortgage_cal' => $property->showCalculator,
+    'fave_payment_status' => 'not_paid',
+    'fave_agent_display_option' => 'author_info',
+    'fave_property_map_address' => $property->address,
+    'fave_property_address' => $property->address,
+    'houzez_geolocation_lat' => $property->lat,
+    'houzez_geolocation_long' => $property->long,
+    'fave_property_location' => $property->lat_long,
+    'fave_property_map' => 1,
+  ];
+
+  $post_id = wp_insert_post($post_data);
+
+
+}
+
+
 /* Began building a query function, realized it wasn't necessary so stopped working on it
 function Query(&$table, $return_columns, $where_columns){
   reset($table);
@@ -90,14 +165,6 @@ function Query(&$table, $return_columns, $where_columns){
 */
 
 
-$args = array(
-  'post_type' => 'post',
-  'posts_per_page' => 5,
-);
-
-$wp_query = new WP_Query($args);
-
-var_dump($wp_query);
-
 SetTables($var_tables, $const_tables);
+PropertyData(27976636);
 ?>
