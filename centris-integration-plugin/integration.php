@@ -1,20 +1,5 @@
 <?php
-class InscriptionData {
-  public $title;
-  public $content;
-  public $price;
-  public $size;
-  public $land;
-  public $bedrooms;
-  public $bathrooms;
-  public $year;
-  public $postal;
-  public $address;
-  public $showCalculator;
-  public $lat;
-  public $long;
-  public $lat_long;
-}
+include './functions.php';
 
 // For development purposes an absolute path in windows style notation must be used as the plugin is a symlink and LocalWP is using a windows based shell
 $path = "D:\Local Repo\local-sites\jb-staging\app\public\wp-load.php";
@@ -33,9 +18,17 @@ $const_tables = [
   "QUARTIERS" => [],
   "REGIONS" => []];
 
+  $current = new Current();
+
 
 // To access a value in a row in a particular table, the syntax is var/const_tables[Table[Row[Field]]]
-function SetTables(&$var_tables, &$const_tables) {
+// If you're wondering why I'm storing this as a multidimensional array rather than just simply storing it in  a db and
+//  using a library/extension to query it, it's because there's no certainty that all servers will have the necessary extensions
+//  And I want to keep this plugin self contained.
+function SetTables() {
+  global $var_tables;
+  global $const_tables;
+
   // Pulling each variable table (data that changes) into memory
   foreach(array_keys($var_tables) as $table) {
     // Open data file for particular table
@@ -71,30 +64,51 @@ function SetTables(&$var_tables, &$const_tables) {
   }
 }
 
-
-function PropertyData($NO_INSCRIPTION){
+function PropertyData(){
   global $var_tables;
-  $row = -1;
+  global $current;
+  $row = NULL;
   $property = new InscriptionData();
 
   foreach ($var_tables["INSCRIPTIONS"] as $index => $record) {
-    if ($record["NO_INSCRIPTION"] == $NO_INSCRIPTION && $row = -1) $row = $index;
-    else if ($record["NO_INSCRIPTION"] == $NO_INSCRIPTION && $row != -1) echo "Duplicate of $NO_INSCRIPTION found in INSCRIPTIONS table";
+    if ($record["NO_INSCRIPTION"] == $current->get_number() && !isset($row)) $row = $index;
+    else if ($record["NO_INSCRIPTION"] == $current->get_number() && isset($row)) LogError("Duplicate property id found in INSCRIPTIONS table, skipping...", "insert_error");
   }
-  if ($row == -1) "No entry for $NO_INSCRIPTION found while looping through PropertyData()";
-  $rowData = $var_tables["INSCRIPTIONS"][$row]
+  if (!isset($row)) {
+    LogError("No entry found while looping through PropertyData(), skipping property", "insert_error");
+    return NULL;
+  }
+  $rowData = $var_tables["INSCRIPTIONS"][$row];
 
-  
+  $property->mls_number = $rowData["NO_INSCRIPTION"];
+  // property status is for rent if value is 1 and for sale if value is 0
+  $property->propertyStatus = CreatePrice($rowData)[1];
+  $property->propertyType = CreateType($rowData);
+  $property->address = CreateTitle($rowData);
+  $property->content = sanitize_text_field($rowData["ADDENDA_COMPLET_A"] . "<br>" . $rowData["ADDENDA_COMPLET_F"]);
+  $property->price = sanitize_text_field(CreatePrice($rowData)[0]);
+  $property->size = sanitize_text_field(CreateSize($rowData, "primary"));
+  $property->land = sanitize_text_field(CreateSize($rowData, "secondary"));
+  $property->bedrooms = sanitize_text_field($rowData["NB_CHAMBRES"]);
+  $property->bathrooms = sanitize_text_field($rowData["NB_SALLES_BAINS"]);
+  $property->year = sanitize_text_field($rowData["ANNEE_CONTRUCTION"]);
+  $property->postal = $rowData["CODE_POSTAL"];
+  // display calculator if property is for sale
+  $property->showCalculator = CreatePrice($rowData)[1];
+
+  return $property;
 }
 
 
-function InsertProperty($NO_INSCRIPTION) 
+function InsertProperty() 
 {
-  $property = new InscriptionData();
+  $property = PropertyData();
+  // If property is null, skip and move on to the next
+  if (!isset($property)) return 1;
 
   $post_data = [
-    'post_title' => '',
-    'post_content' => '',
+    'post_title' => $property->address,
+    'post_content' => $property->content,
     'post_status' => 'publish',
     'post_author' => 1,
     'post_type' => 'property'
@@ -109,7 +123,7 @@ function InsertProperty($NO_INSCRIPTION)
     'fave_property_bedrooms' => $property->bedrooms,
     'fave_property_bathrooms' => $property->bathrooms,
     'fave_property_year' => $property->year,
-    'fave_property_id' => $NO_INSCRIPTION,
+    'fave_property_id' => $property->mls_number,
     'fave_property_zip' => $property->postal,
     'fave_additional_features_enable' => 'enable',
     'fave_featured' => 1,
@@ -125,46 +139,38 @@ function InsertProperty($NO_INSCRIPTION)
     'fave_property_map' => 1,
   ];
 
+  // insert post in wp database
   $post_id = wp_insert_post($post_data);
-
-
-}
-
-
-/* Began building a query function, realized it wasn't necessary so stopped working on it
-function Query(&$table, $return_columns, $where_columns){
-  reset($table);
-  next($table);
-  $return_data = [];
-
-  while(($row = key($table)) != null) 
-  {
-    print(key($table));
-    $append = true;
-
-    if ($where_columns != null)
-    {
-      foreach($where_columns as $column => $value) {
-        if ($table[$row][$column] != $value) $append = false; break;
-      }
-    }
-
-    // If a row's columns doesn't match the values in the where columns, move on to the next row
-    if ($append == false) next($table); continue;
-
-    $return_row = [];
-    foreach($return_columns as $column) {
-      $return_row[] = [$column => $table[$row][$column]];
-    }
-
-    $return_data[] = $return_row;
-    next($table);
+  LogMessage("Inserted property, post id is: $post_id", "inserted_property");
+ 
+  // insert post metadata in database
+  foreach ($meta_data as $key => $value) {
+    update_post_meta($post_id, $key, $value, true);
   }
-  //print_r($return_data);
-}
-*/
 
+  // Add property status
+  if ($property->propertyStatus == 0) {
+    $result = wp_set_object_terms( $post_id, 122, 'property_status' );
+    if (is_wp_error($result)) {
+      logError($result->get_error_message(), 'wp_error');
+  }
+  } else if ($property->propertyStatus == 1) {
+    $result = wp_set_object_terms( $post_id, 121, 'property_status' );
+    if (is_wp_error($result)) {
+      logError($result->get_error_message(), 'wp_error');
+  }
+  } else LogWarning('No property status set', 'meta_error');
+
+  // Add property type
+  $result = wp_set_object_terms( $post_id, $property->propertyType, 'property_type' );
+  if (is_wp_error($result)) {
+    logError($result->get_error_message(), 'wp_error');
+}
+
+}
 
 SetTables($var_tables, $const_tables);
-PropertyData(27976636);
+$current->set_number(19656583);
+InsertProperty();
+//PropertyData(27976636);
 ?>
