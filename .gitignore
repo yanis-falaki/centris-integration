@@ -2,3 +2,4 @@ databases
 venv
 .DS_STORE
 centris-integration-plugin/databases
+centris-integration-plugin/log.txt

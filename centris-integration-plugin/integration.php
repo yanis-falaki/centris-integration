@@ -39,6 +39,8 @@ function SetTables() {
     // Array will contain associative arrays which correspond table columns to value for each index/row
     $data = [];
     while (($row = fgetcsv($data_file)) !== false) {
+      // encode each field in row from ISO-8859-1 to UTF-8
+      $row = array_map('utf8_encode', $row);
       $data[] = array_combine($header, $row);
     }
 
@@ -85,7 +87,7 @@ function PropertyData(){
   $property->propertyStatus = CreatePrice($rowData)[1];
   $property->propertyType = CreateType($rowData);
   $property->address = CreateTitle($rowData);
-  $property->content = sanitize_text_field($rowData["ADDENDA_COMPLET_A"] . "<br>" . $rowData["ADDENDA_COMPLET_F"]);
+  $property->content = $rowData["ADDENDA_COMPLET_A"] . "<br><br><br><br>" . $rowData["ADDENDA_COMPLET_F"];
   $property->price = sanitize_text_field(CreatePrice($rowData)[0]);
   $property->size = sanitize_text_field(CreateSize($rowData, "primary"));
   $property->land = sanitize_text_field(CreateSize($rowData, "secondary"));
@@ -141,12 +143,14 @@ function InsertProperty()
 
   // insert post in wp database
   $post_id = wp_insert_post($post_data);
-  LogMessage("Inserted property, post id is: $post_id", "inserted_property");
+  echo $post_id;
+  LogMessage("Inserted property post id is: $post_id", "inserted_property");
  
   // insert post metadata in database
   foreach ($meta_data as $key => $value) {
     update_post_meta($post_id, $key, $value, true);
   }
+  LogMessage("Finished inserting meta data for post: $post_id", "modified_property");
 
   // Add property status
   if ($property->propertyStatus == 0) {
@@ -170,7 +174,6 @@ function InsertProperty()
 }
 
 SetTables($var_tables, $const_tables);
-$current->set_number(19656583);
+$current->set_number(25795284);
 InsertProperty();
-//PropertyData(27976636);
 ?>

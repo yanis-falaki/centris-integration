@@ -31,8 +31,9 @@ class InscriptionData {
 
 function LogError($message, $short) {
   $time = date('Y-m-d H:i:s');
-  $file = fopen('log_file.csv', 'a'); // Open the log file in append mode
-  $log = "Error,$message,$time\n"; // Separate fields with commas and end line with a new line character
+  $file = fopen('log.txt', 'a'); // Open the log file in append mode
+  $clean_message = str_replace(',', '', $message);
+  $log = "Error,$clean_message,$short,$time\n"; // Separate fields with commas and end line with a new line character
 
   fwrite($file, $log); // Write the log entry to the file
   fclose($file); // Close the file
@@ -40,8 +41,9 @@ function LogError($message, $short) {
 
 function LogWarning($message, $short) {
   $time = date('Y-m-d H:i:s');
-  $file = fopen('log_file.csv', 'a'); // Open the log file in append mode
-  $log = "Warning,$message,$time\n"; // Separate fields with commas and end line with a new line character
+  $file = fopen('log.txt', 'a'); // Open the log file in append mode
+  $clean_message = str_replace(',', '', $message);
+  $log = "Warning,$clean_message,$short,$time\n"; // Separate fields with commas and end line with a new line character
 
   fwrite($file, $log); // Write the log entry to the file
   fclose($file); // Close the file
@@ -49,8 +51,9 @@ function LogWarning($message, $short) {
 
 function LogMessage($message, $short) {
   $time = date('Y-m-d H:i:s');
-  $file = fopen('log_file.csv', 'a'); // Open the log file in append mode
-  $log = "Message,$message,$time\n"; // Separate fields with commas and end line with a new line character
+  $file = fopen('log.txt', 'a'); // Open the log file in append mode
+  $clean_message = str_replace(',', '', $message);
+  $log = "Message,$clean_message,$short,$time\n"; // Separate fields with commas and end line with a new line character
 
   fwrite($file, $log); // Write the log entry to the file
   fclose($file); // Close the file
